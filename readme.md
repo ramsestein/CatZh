@@ -185,7 +185,7 @@ catalan-chinese-benchmark/
 Impacto del estilo: El bloque minimalista extremo es el más desafiante para todos los modelos
 Think tags: Los modelos que usan razonamiento interno (Qwen3, DeepSeek) muestran mayor precisión
 
-###Contribuciones del Ensemble (Top-2)
+### Contribuciones del Ensemble (Top-2)
 
 AINA: 340 contribuciones (27.8%)
 NLLB: 321 contribuciones (26.2%)
