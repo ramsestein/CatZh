@@ -243,9 +243,6 @@ Abre un Pull Request
 ## 📄Licencia
 Este proyecto está bajo licencia MIT. Ver archivo LICENSE para más detalles.
 
-## 📧Contacto
-Para preguntas o colaboraciones, contactar a: [tu-email@ejemplo.com]
-
 ## 🙏Agradecimientos
 
 Modelos de traducción de código abierto
