@@ -127,7 +127,7 @@ python t1_ollama.py
 bash
 python t3_ensemble.py --data_dir . --output_dir ./ranked_datasets --top_k 2 3
 ```
-###Evaluación Rápida (Modo Test)
+### Evaluación Rápida (Modo Test)
 
 ```
 bash
@@ -135,7 +135,7 @@ bash
 python t1_ollama.py --test_mode --num_test 10
 ```
 
-###📊 Estructura del Proyecto
+### 📊 Estructura del Proyecto
 
 ```
 catalan-chinese-benchmark/
@@ -174,8 +174,9 @@ catalan-chinese-benchmark/
 ```
 
 
-##📉 Análisis de Resultados
-###Hallazgos Clave
+## 📉Análisis de Resultados
+
+### Hallazgos Clave
 
 - OpusMT: Paradoja interesante - 97.3% contains_correct pero 0% exact_match, sugiere que entiende el contenido pero no respeta el formato de respuesta
 - NLLB y AINA: Mejor balance entre comprensión y formato, lideran en el ranking del ensemble
@@ -192,7 +193,7 @@ M2M100: 257 contribuciones (21.0%)
 Google: 195 contribuciones (15.9%)
 mBART: 111 contribuciones (9.1%)
 
-###🔧 Configuración Avanzada
+### 🔧Configuración Avanzada
 Ajustar Parámetros de Evaluación
 ```
 `python
@@ -202,13 +203,13 @@ config.max_parallel_calls = 20       # Más workers para evaluación rápida
 config.timeout_seconds = 120         # Timeout mayor para modelos lentos
 ```
 
-###Agregar Nuevo Modelo de Traducción
+### Agregar Nuevo Modelo de Traducción
 
 Crear script t2_nuevo_modelo.py basado en plantilla existente
 Implementar clase NuevoModeloTranslator
 Agregar a pipeline de evaluación
 
-###Agregar Nuevo LLM Evaluador
+### Agregar Nuevo LLM Evaluador
 ```
 python
 # En t1_ollama.py, agregar a config.llm_models
@@ -220,7 +221,7 @@ self.llm_models = [
 ]
 ```
 
-##📝 Reproducibilidad
+## 📝Reproducibilidad
 
 Para reproducir exactamente los resultados:
 
@@ -229,7 +230,7 @@ Semillas aleatorias: Todas fijadas a 42
 Datasets: Disponibles en carpeta datasets/
 Configuración: Documentada en archivos de configuración
 
-##🤝 Contribuciones
+## 🤝Contribuciones
 
 Las contribuciones son bienvenidas. Por favor:
 
@@ -239,13 +240,13 @@ Commit tus cambios (git commit -m 'Agregar nueva característica')
 Push a la rama (git push origin feature/NuevaCaracteristica)
 Abre un Pull Request
 
-##📄 Licencia
+## 📄Licencia
 Este proyecto está bajo licencia MIT. Ver archivo LICENSE para más detalles.
 
-##📧 Contacto
+## 📧Contacto
 Para preguntas o colaboraciones, contactar a: [tu-email@ejemplo.com]
 
-##🙏 Agradecimientos
+## 🙏Agradecimientos
 
 Modelos de traducción de código abierto
 Comunidad Ollama por infraestructura de LLMs locales
