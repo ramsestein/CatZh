@@ -137,6 +137,7 @@ python t1_ollama.py --test_mode --num_test 10
 
 ###📊 Estructura del Proyecto
 
+```
 catalan-chinese-benchmark/
 ├── README.md                          # Este archivo
 ├── requirements.txt                   # Dependencias Python
@@ -170,6 +171,7 @@ catalan-chinese-benchmark/
 └── ranked_datasets/                  # Datasets generados por ensemble
     ├── top2_ranked_dataset.jsonl    # Mejores 2 traducciones
     └── top3_ranked_dataset.jsonl    # Mejores 3 traducciones
+```
 
 
 ##📉 Análisis de Resultados
