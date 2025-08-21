@@ -1,0 +1,6 @@
+1 - 102 : Dataset normal, formato telegrafico.
+103 - 204: Formato culto, lenguaje técnico, ligeramente verborreico
+205 - 306: Formato con slang y jerga, tipo callejero, juvenil
+307 - 408: Con errores gramaticales, no agresivos
+409 - 510: Formato muy verboso, poetico y arcaico en el lenguaje, bastante verboso
+511 - 612: Minimalista extremo

@@ -1,0 +1,70 @@
+MÉTRICAS FINALES DE CORRECCIÓN CHINA - EJECUCIÓN DETALLADA
+================================================================================
+
+INFORMACIÓN DE EJECUCIÓN:
+Timestamp: 2025-07-17 07:15:17
+Archivo fuente: muestra_traducciones_10000.csv
+Tiempo total ejecución: 660.26 segundos (11.00 minutos)
+Modo interactivo: NO
+
+CONFIGURACIÓN DE ELIMINACIÓN:
+Tipo: ANÁLISIS COMPLETO + SUGERENCIA AUTOMÁTICA
+Porcentaje sugerido aplicado: 2.5%
+Threshold automático: 14.62 puntos
+
+ESTADÍSTICAS DE PROCESAMIENTO:
+Registros originales: 6834
+Registros eliminados: 171
+Registros finales: 6663
+Porcentaje retención: 97.5%
+
+ANÁLISIS DE CALIDAD:
+Score máximo teórico: 130 puntos
+Score promedio original: 31.60
+Score promedio eliminados: 9.28
+Score promedio final: 32.18
+Mejora conseguida: +0.57 puntos
+Eficiencia final: 24.8%
+
+MÉTRICAS DETALLADAS POR COMPONENTE:
+📏 Coherencia de longitud: 8.2/15
+🔤 Diversidad de caracteres: 14.8/15
+📝 Ratio de puntuación: 8.7/10
+🇨🇳 Complejidad HSK: 18.4/20
+🏗️ Estructura gramatical: 15.0/15
+🧠 Coherencia semántica: 15.4/25
+🔢 Consistencia números: 7.8/10
+🤖 Calidad no-automática: 9.4/10
+👤 Consistencia entidades: 3.4/10
+⚠️ Penalizaciones promedio: 2.4 puntos
+
+INFORMACIÓN ACUMULATIVA:
+Total muestras acumuladas: 685759
+Nuevas muestras esta ejecución: 6663
+Archivo Excel muestras: muestra_traducciones_10000_muestras_limpias.xlsx
+
+TIEMPO POR FASE:
+Fase 0 Inicialización: 31.56s
+Fase 1 Limpieza Catalana: 0.64s
+Fase 2 Limpieza China: 0.31s
+Fase 3 Detección De Duplicados: 0.99s
+Fase 3.2 Análisis Multi-Embeddings: 293.12s
+Fase 3.3 Métricas De Calidad Básicas: 0.34s
+Fase 3.4 Métricas Avanzadas De Traducción: 3.37s
+Fase 4 Análisis Completo De Eliminación: 0.34s
+Fase 4 Scoring Y Optimización: 0.41s
+Total: 660.26s
+
+MODELOS DE EMBEDDINGS UTILIZADOS:
+1. paraphrase-multilingual-mpnet-base-v2
+2. xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+3. paraphrase-multilingual-MiniLM-L12-v2
+4. distiluse-base-multilingual-cased-v2
+5. all-MiniLM-L6-v2
+6. all-mpnet-base-v2
+7. multi-qa-mpnet-base-dot-v1
+
+ESTADÍSTICAS DE EMBEDDINGS:
+Similitud semántica promedio: 0.618
+Desviación estándar inter-modelo: 0.285
+Casos con alta discrepancia (std > 0.1): 6638

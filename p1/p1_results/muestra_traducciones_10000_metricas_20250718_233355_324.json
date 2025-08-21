@@ -1,0 +1,48 @@
+{
+  "timestamp": 1752874434.166402,
+  "fecha_hora": "2025-07-18 23:33:54",
+  "archivo_csv": "muestra_traducciones_10000.csv",
+  "metodo": "indice",
+  "configuracion": {
+    "archivo_catalan": "ca-zh_all_2024_08_05.ca",
+    "archivo_chino": "ca-zh_all_2024_08_05.zh",
+    "muestras_solicitadas": 10000,
+    "total_lineas": 96000000,
+    "seed": null,
+    "usa_indices": true
+  },
+  "tiempos": {
+    "total_segundos": 21.98,
+    "total_minutos": 0.37,
+    "lectura_catalan": 4.98,
+    "lectura_chino": 4.69,
+    "creacion_csv": 0.56,
+    "carga_record": 11.28,
+    "guardado_record": 0.45
+  },
+  "resultados": {
+    "muestras_extraidas": 9787,
+    "muestras_solicitadas": 10000,
+    "completado_exitosamente": false
+  },
+  "estadisticas": {
+    "linea_minima": 1781,
+    "linea_maxima": 95998507,
+    "eficiencia_porcentaje": 97.9,
+    "velocidad_muestras_por_segundo": 445.3
+  },
+  "archivos_fuente": {
+    "catalan_existe": true,
+    "chino_existe": true,
+    "catalan_size_mb": 11745.9,
+    "chino_size_mb": 9191.3,
+    "indice_catalan_existe": true,
+    "indice_chino_existe": true
+  },
+  "record_stats": {
+    "lineas_previas": 2873700,
+    "lineas_nuevas": 9787,
+    "total_en_record": 2883487,
+    "porcentaje_corpus": 3.0
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "total_questions": 612,
+  "models_analyzed": [
+    "m2m100",
+    "nllb",
+    "opus",
+    "mbart",
+    "google",
+    "aina"
+  ],
+  "model_total_points": {
+    "google": 3672,
+    "aina": 3060,
+    "nllb": 2448,
+    "mbart": 1836,
+    "opus": 1224,
+    "m2m100": 612
+  },
+  "model_avg_points": {
+    "google": 6.0,
+    "aina": 5.0,
+    "nllb": 4.0,
+    "mbart": 3.0,
+    "opus": 2.0,
+    "m2m100": 1.0
+  },
+  "model_avg_ranking": {
+    "google": 1.0,
+    "aina": 2.0,
+    "nllb": 3.0,
+    "mbart": 4.0,
+    "opus": 5.0,
+    "m2m100": 6.0
+  },
+  "model_contributions_by_topk": {
+    "google_top2": 612,
+    "aina_top2": 612,
+    "google_top3": 612,
+    "aina_top3": 612,
+    "nllb_top3": 612
+  },
+  "ranking_distribution": {
+    "google": {
+      "pos_1": 612,
+      "pos_2": 0,
+      "pos_3": 0,
+      "pos_4": 0,
+      "pos_5": 0,
+      "pos_6": 0
+    },
+    "aina": {
+      "pos_1": 0,
+      "pos_2": 612,
+      "pos_3": 0,
+      "pos_4": 0,
+      "pos_5": 0,
+      "pos_6": 0
+    },
+    "nllb": {
+      "pos_1": 0,
+      "pos_2": 0,
+      "pos_3": 612,
+      "pos_4": 0,
+      "pos_5": 0,
+      "pos_6": 0
+    },
+    "mbart": {
+      "pos_1": 0,
+      "pos_2": 0,
+      "pos_3": 0,
+      "pos_4": 612,
+      "pos_5": 0,
+      "pos_6": 0
+    },
+    "opus": {
+      "pos_1": 0,
+      "pos_2": 0,
+      "pos_3": 0,
+      "pos_4": 0,
+      "pos_5": 612,
+      "pos_6": 0
+    },
+    "m2m100": {
+      "pos_1": 0,
+      "pos_2": 0,
+      "pos_3": 0,
+      "pos_4": 0,
+      "pos_5": 0,
+      "pos_6": 612
+    }
+  },
+  "overall_similarity_stats": {
+    "mean": 1.000000019868215,
+    "std": 2.220446049250313e-16,
+    "min": 1.0000000198682149,
+    "max": 1.0000000198682149
+  }
+}

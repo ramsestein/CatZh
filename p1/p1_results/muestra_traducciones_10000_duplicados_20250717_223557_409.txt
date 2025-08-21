@@ -1,0 +1,14 @@
+REPORTE DE DUPLICADOS
+==================================================
+
+Generado: 2025-07-17 22:43:10
+Archivo fuente: muestra_traducciones_10000.csv
+
+
+EXACTOS:
+------------------------------
+1. Líneas [32432685, 71129467]: 在游戏方面，游戏日益成为全球最受欢迎的娱乐形式，而NVIDIA助力了两个增长最快的平台——GeForce和NintendoSwitch。
+
+CASI_EXACTOS:
+------------------------------
+1. Líneas [32432685, 71129467]: 在游戏方面游戏日益成为全球最受欢迎的娱乐形式而nvidia助力了两个增长最快的平台——geforce和nintendoswitch

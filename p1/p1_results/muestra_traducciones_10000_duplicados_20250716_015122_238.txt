@@ -1,0 +1,14 @@
+REPORTE DE DUPLICADOS
+==================================================
+
+Generado: 2025-07-16 01:52:08
+Archivo fuente: muestra_traducciones_10000.csv
+
+
+EXACTOS:
+------------------------------
+1. Líneas [62477299, 62499398]: 安全包装条款_TNTHongKong
+
+CASI_EXACTOS:
+------------------------------
+1. Líneas [62477299, 62499398]: 安全包装条款_tnthongkong

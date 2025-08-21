@@ -1,0 +1,56 @@
+MÉTRICAS FINALES DE CORRECCIÓN CHINA - EJECUCIÓN DETALLADA
+================================================================================
+
+INFORMACIÓN DE EJECUCIÓN:
+Timestamp: 2025-07-18 00:49:01
+Archivo fuente: muestra_traducciones_10000.csv
+Tiempo total ejecución: 656.52 segundos (10.94 minutos)
+Modo interactivo: NO
+
+CONFIGURACIÓN DE ELIMINACIÓN:
+Tipo: ANÁLISIS COMPLETO + SUGERENCIA AUTOMÁTICA
+Porcentaje sugerido aplicado: 5.0%
+Threshold automático: nan puntos
+
+ESTADÍSTICAS DE PROCESAMIENTO:
+Registros originales: 6858
+Registros eliminados: 0
+Registros finales: 0
+Porcentaje retención: 0.0%
+
+ANÁLISIS DE CALIDAD:
+Score máximo teórico: 130 puntos
+Score promedio original: nan
+Score promedio eliminados: 0.00
+Score promedio final: nan
+Mejora conseguida: +nan puntos
+Eficiencia final: nan%
+
+MÉTRICAS DETALLADAS POR COMPONENTE:
+INFORMACIÓN ACUMULATIVA:
+Total muestras acumuladas: 1008538
+Nuevas muestras esta ejecución: 0
+Archivo Excel muestras: muestra_traducciones_10000_muestras_limpias.xlsx
+
+TIEMPO POR FASE:
+Fase 0 Inicialización: 35.10s
+Fase 1 Limpieza Catalana: 0.66s
+Fase 2 Limpieza China: 0.31s
+Fase 3 Detección De Duplicados: 1.00s
+Fase 3.2 Análisis Multi-Embeddings: 127.47s
+Fase 3.3 Métricas De Calidad Básicas: 0.34s
+Fase 3.4 Métricas Avanzadas De Traducción: 3.61s
+Fase 4 Análisis Completo De Eliminación: 0.21s
+Fase 4 Scoring Y Optimización: 0.23s
+Total: 656.52s
+
+MODELOS DE EMBEDDINGS UTILIZADOS:
+1. paraphrase-multilingual-mpnet-base-v2
+2. xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+3. paraphrase-multilingual-MiniLM-L12-v2
+4. distiluse-base-multilingual-cased-v2
+5. all-MiniLM-L6-v2
+6. all-mpnet-base-v2
+7. multi-qa-mpnet-base-dot-v1
+
+ESTADÍSTICAS DE EMBEDDINGS:

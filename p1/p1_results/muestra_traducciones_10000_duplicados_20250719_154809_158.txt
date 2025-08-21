@@ -1,0 +1,14 @@
+REPORTE DE DUPLICADOS
+==================================================
+
+Generado: 2025-07-19 15:49:56
+Archivo fuente: muestra_traducciones_10000.csv
+
+
+EXACTOS:
+------------------------------
+1. Líneas [42127922, 43050808]: Fedora12已经发布了！
+
+CASI_EXACTOS:
+------------------------------
+1. Líneas [42127922, 43050808]: fedora12已经发布了

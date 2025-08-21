@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-19T10:02:42.423158",
+    "total_evaluations": 8827,
+    "questions": 612,
+    "iterations_per_question": 5
+  },
+  "global_metrics": {
+    "exact_match": 0.25841169140138215,
+    "contains_correct": 0.6235414070465617,
+    "had_think_tags": 0.6604735470714852
+  },
+  "by_model": [
+    {
+      "model": "qwen3:0.6b",
+      "exact_match": 0.30823293172690763,
+      "contains_correct": 0.6823962516733602,
+      "used_think_tags": 1.0
+    },
+    {
+      "model": "yi:9b",
+      "exact_match": 0.10744077410744077,
+      "contains_correct": 0.6106106106106106,
+      "used_think_tags": 0.0
+    },
+    {
+      "model": "deepseek-r1:1.5b",
+      "exact_match": 0.36523574947220266,
+      "contains_correct": 0.5752990851513019,
+      "used_think_tags": 1.0
+    }
+  ],
+  "by_block": {
+    "deepseek-r1:1.5b": {
+      "formal_technical": 0.3772455089820359,
+      "grammatical_errors": 0.3292181069958848,
+      "minimalist_extreme": 0.20638820638820637,
+      "normal_telegraphic": 0.43380855397148677,
+      "slang_youth": 0.4,
+      "verbose_poetic": 0.4194915254237288
+    },
+    "qwen3:0.6b": {
+      "formal_technical": 0.4302788844621514,
+      "grammatical_errors": 0.23541247484909456,
+      "minimalist_extreme": 0.16767676767676767,
+      "normal_telegraphic": 0.4212678936605317,
+      "slang_youth": 0.3004032258064516,
+      "verbose_poetic": 0.29469548133595286
+    },
+    "yi:9b": {
+      "formal_technical": 0.12648221343873517,
+      "grammatical_errors": 0.07302231237322515,
+      "minimalist_extreme": 0.11042944785276074,
+      "normal_telegraphic": 0.08964143426294821,
+      "slang_youth": 0.04426559356136821,
+      "verbose_poetic": 0.1980392156862745
+    }
+  }
+}

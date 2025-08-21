@@ -1,0 +1,16 @@
+REPORTE DE DUPLICADOS
+==================================================
+
+Generado: 2025-07-19 08:38:54
+Archivo fuente: muestra_traducciones_10000.csv
+
+
+EXACTOS:
+------------------------------
+1. Líneas [48432529, 54690406]: 关于我们
+2. Líneas [41123689, 70176072]: 由于ApplePark仍有施工，我们将在InfiniteLoop园区的TownHall举行这场会议。
+
+CASI_EXACTOS:
+------------------------------
+1. Líneas [48432529, 54690406]: 关于我们
+2. Líneas [41123689, 70176072]: 由于applepark仍有施工我们将在infiniteloop园区的townhall举行这场会议

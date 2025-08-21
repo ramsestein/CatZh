@@ -1,0 +1,10 @@
+REPORTE DE DUPLICADOS
+==================================================
+
+Generado: 2025-07-18 06:08:44
+Archivo fuente: muestra_traducciones_10000.csv
+
+
+CASI_EXACTOS:
+------------------------------
+1. Líneas [37063089, 43343141]: 兄弟

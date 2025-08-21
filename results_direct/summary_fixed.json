@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-15T12:20:47.415223",
+    "total_evaluations": 284,
+    "questions": 10,
+    "iterations_per_question": 10
+  },
+  "global_metrics": {
+    "exact_match": 0.0,
+    "contains_correct": 0.31338028169014087,
+    "had_think_tags": 0.647887323943662
+  },
+  "by_model": [
+    {
+      "model": "qwen3:0.6b",
+      "exact_match": 0.0,
+      "contains_correct": 0.3,
+      "used_think_tags": 1.0
+    },
+    {
+      "model": "yi:9b",
+      "exact_match": 0.0,
+      "contains_correct": 0.3,
+      "used_think_tags": 0.0
+    },
+    {
+      "model": "deepseek-r1:1.5b",
+      "exact_match": 0.0,
+      "contains_correct": 0.34523809523809523,
+      "used_think_tags": 1.0
+    }
+  ],
+  "by_block": {
+    "deepseek-r1:1.5b": {
+      "normal_telegraphic": 0.0
+    },
+    "qwen3:0.6b": {
+      "normal_telegraphic": 0.0
+    },
+    "yi:9b": {
+      "normal_telegraphic": 0.0
+    }
+  }
+}

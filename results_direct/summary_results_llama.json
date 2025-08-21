@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-16T13:21:52.920521",
+    "total_evaluations": 3060,
+    "questions": 612,
+    "iterations_per_question": 5
+  },
+  "global_metrics": {
+    "exact_match": 0.0,
+    "contains_correct": 0.973202614379085,
+    "had_think_tags": 0.0
+  },
+  "by_model": [
+    {
+      "model": "llama3.2:3b",
+      "exact_match": 0.0,
+      "contains_correct": 0.973202614379085,
+      "used_think_tags": 0.0
+    }
+  ],
+  "by_block": {
+    "llama3.2:3b": {
+      "formal_technical": 0.0,
+      "grammatical_errors": 0.0,
+      "minimalist_extreme": 0.0,
+      "normal_telegraphic": 0.0,
+      "slang_youth": 0.0,
+      "verbose_poetic": 0.0
+    }
+  }
+}

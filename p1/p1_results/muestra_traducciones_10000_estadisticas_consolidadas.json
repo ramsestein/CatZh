@@ -1,0 +1,461 @@
+{
+  "primera_ejecucion": "2025-07-15T15:28:50.841750",
+  "total_ejecuciones": 368,
+  "total_registros_procesados": 2536459,
+  "total_registros_eliminados": 63173,
+  "total_registros_generados": 2466428,
+  "promedio_score_mejora": NaN,
+  "historial_ejecuciones": [
+    {
+      "ejecucion": 319,
+      "timestamp": "2025-07-19T11:49:36.945205",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6935,
+      "registros_finales": 6761,
+      "score_final": 32.22,
+      "mejora_conseguida": 0.57
+    },
+    {
+      "ejecucion": 320,
+      "timestamp": "2025-07-19T11:57:47.354460",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6832,
+      "registros_finales": 6661,
+      "score_final": 32.13,
+      "mejora_conseguida": 0.59
+    },
+    {
+      "ejecucion": 321,
+      "timestamp": "2025-07-19T12:05:36.563509",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6899,
+      "registros_finales": 6726,
+      "score_final": 32.12,
+      "mejora_conseguida": 0.58
+    },
+    {
+      "ejecucion": 322,
+      "timestamp": "2025-07-19T12:13:25.625871",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6872,
+      "registros_finales": 6700,
+      "score_final": 32.11,
+      "mejora_conseguida": 0.57
+    },
+    {
+      "ejecucion": 323,
+      "timestamp": "2025-07-19T12:21:22.297248",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6982,
+      "registros_finales": 6807,
+      "score_final": 32.16,
+      "mejora_conseguida": 0.56
+    },
+    {
+      "ejecucion": 324,
+      "timestamp": "2025-07-19T12:29:16.757308",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6869,
+      "registros_finales": 6697,
+      "score_final": 32.13,
+      "mejora_conseguida": 0.55
+    },
+    {
+      "ejecucion": 325,
+      "timestamp": "2025-07-19T12:37:24.054791",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6951,
+      "registros_finales": 6777,
+      "score_final": 32.22,
+      "mejora_conseguida": 0.56
+    },
+    {
+      "ejecucion": 326,
+      "timestamp": "2025-07-19T12:45:32.431956",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6912,
+      "registros_finales": 6739,
+      "score_final": 32.16,
+      "mejora_conseguida": 0.57
+    },
+    {
+      "ejecucion": 327,
+      "timestamp": "2025-07-19T12:53:42.501011",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6824,
+      "registros_finales": 6653,
+      "score_final": 32.17,
+      "mejora_conseguida": 0.52
+    },
+    {
+      "ejecucion": 328,
+      "timestamp": "2025-07-19T13:01:53.317850",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6920,
+      "registros_finales": 6747,
+      "score_final": 32.23,
+      "mejora_conseguida": 0.55
+    },
+    {
+      "ejecucion": 329,
+      "timestamp": "2025-07-19T13:10:25.895253",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6885,
+      "registros_finales": 6712,
+      "score_final": 32.14,
+      "mejora_conseguida": 0.56
+    },
+    {
+      "ejecucion": 330,
+      "timestamp": "2025-07-19T13:18:51.440288",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6848,
+      "registros_finales": 6676,
+      "score_final": 32.09,
+      "mejora_conseguida": 0.56
+    },
+    {
+      "ejecucion": 331,
+      "timestamp": "2025-07-19T13:27:13.134965",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6847,
+      "registros_finales": 6675,
+      "score_final": 32.1,
+      "mejora_conseguida": 0.55
+    },
+    {
+      "ejecucion": 332,
+      "timestamp": "2025-07-19T13:35:41.073909",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6928,
+      "registros_finales": 6754,
+      "score_final": 32.11,
+      "mejora_conseguida": 0.55
+    },
+    {
+      "ejecucion": 333,
+      "timestamp": "2025-07-19T13:44:16.661771",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6884,
+      "registros_finales": 6711,
+      "score_final": 32.19,
+      "mejora_conseguida": 0.58
+    },
+    {
+      "ejecucion": 334,
+      "timestamp": "2025-07-19T13:52:55.604675",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6923,
+      "registros_finales": 6749,
+      "score_final": 32.22,
+      "mejora_conseguida": 0.58
+    },
+    {
+      "ejecucion": 335,
+      "timestamp": "2025-07-19T14:01:30.093945",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6898,
+      "registros_finales": 6725,
+      "score_final": 32.23,
+      "mejora_conseguida": 0.55
+    },
+    {
+      "ejecucion": 336,
+      "timestamp": "2025-07-19T14:10:19.732372",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6956,
+      "registros_finales": 6782,
+      "score_final": 32.16,
+      "mejora_conseguida": 0.58
+    },
+    {
+      "ejecucion": 337,
+      "timestamp": "2025-07-19T14:19:03.756192",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6868,
+      "registros_finales": 6696,
+      "score_final": 32.15,
+      "mejora_conseguida": 0.57
+    },
+    {
+      "ejecucion": 338,
+      "timestamp": "2025-07-19T14:27:53.533667",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6855,
+      "registros_finales": 6683,
+      "score_final": 32.28,
+      "mejora_conseguida": 0.55
+    },
+    {
+      "ejecucion": 339,
+      "timestamp": "2025-07-19T14:36:48.766421",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6860,
+      "registros_finales": 6688,
+      "score_final": 32.05,
+      "mejora_conseguida": 0.57
+    },
+    {
+      "ejecucion": 340,
+      "timestamp": "2025-07-19T14:45:43.385598",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6883,
+      "registros_finales": 6710,
+      "score_final": 32.03,
+      "mejora_conseguida": 0.58
+    },
+    {
+      "ejecucion": 341,
+      "timestamp": "2025-07-19T14:54:41.562433",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6936,
+      "registros_finales": 6762,
+      "score_final": 32.22,
+      "mejora_conseguida": 0.56
+    },
+    {
+      "ejecucion": 342,
+      "timestamp": "2025-07-19T15:03:42.756200",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6941,
+      "registros_finales": 6767,
+      "score_final": 32.06,
+      "mejora_conseguida": 0.59
+    },
+    {
+      "ejecucion": 343,
+      "timestamp": "2025-07-19T15:12:53.623381",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6888,
+      "registros_finales": 6715,
+      "score_final": 32.24,
+      "mejora_conseguida": 0.57
+    },
+    {
+      "ejecucion": 344,
+      "timestamp": "2025-07-19T15:22:10.324755",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6859,
+      "registros_finales": 6687,
+      "score_final": 32.17,
+      "mejora_conseguida": 0.58
+    },
+    {
+      "ejecucion": 345,
+      "timestamp": "2025-07-19T15:31:18.082173",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6831,
+      "registros_finales": 6660,
+      "score_final": 32.14,
+      "mejora_conseguida": 0.55
+    },
+    {
+      "ejecucion": 346,
+      "timestamp": "2025-07-19T15:40:32.749701",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6950,
+      "registros_finales": 6811,
+      "score_final": 32.06,
+      "mejora_conseguida": 0.5
+    },
+    {
+      "ejecucion": 347,
+      "timestamp": "2025-07-19T15:49:56.377575",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6951,
+      "registros_finales": 6777,
+      "score_final": 32.19,
+      "mejora_conseguida": 0.57
+    },
+    {
+      "ejecucion": 348,
+      "timestamp": "2025-07-19T15:59:31.035553",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6869,
+      "registros_finales": 6697,
+      "score_final": 32.15,
+      "mejora_conseguida": 0.56
+    },
+    {
+      "ejecucion": 349,
+      "timestamp": "2025-07-19T16:08:55.251389",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6863,
+      "registros_finales": 6691,
+      "score_final": 32.14,
+      "mejora_conseguida": 0.55
+    },
+    {
+      "ejecucion": 350,
+      "timestamp": "2025-07-19T16:18:26.348949",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6819,
+      "registros_finales": 6648,
+      "score_final": 32.18,
+      "mejora_conseguida": 0.58
+    },
+    {
+      "ejecucion": 351,
+      "timestamp": "2025-07-19T16:28:13.837204",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6966,
+      "registros_finales": 6791,
+      "score_final": 32.11,
+      "mejora_conseguida": 0.58
+    },
+    {
+      "ejecucion": 352,
+      "timestamp": "2025-07-19T16:38:02.655436",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6821,
+      "registros_finales": 6650,
+      "score_final": 32.04,
+      "mejora_conseguida": 0.54
+    },
+    {
+      "ejecucion": 353,
+      "timestamp": "2025-07-19T16:47:52.074892",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6870,
+      "registros_finales": 6698,
+      "score_final": 32.14,
+      "mejora_conseguida": 0.58
+    },
+    {
+      "ejecucion": 354,
+      "timestamp": "2025-07-19T16:57:49.972619",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6809,
+      "registros_finales": 6638,
+      "score_final": 32.24,
+      "mejora_conseguida": 0.56
+    },
+    {
+      "ejecucion": 355,
+      "timestamp": "2025-07-19T17:07:51.493666",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6851,
+      "registros_finales": 6679,
+      "score_final": 32.21,
+      "mejora_conseguida": 0.55
+    },
+    {
+      "ejecucion": 356,
+      "timestamp": "2025-07-19T17:17:56.765485",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6857,
+      "registros_finales": 6685,
+      "score_final": 32.36,
+      "mejora_conseguida": 0.56
+    },
+    {
+      "ejecucion": 357,
+      "timestamp": "2025-07-19T17:28:02.421428",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6971,
+      "registros_finales": 6796,
+      "score_final": 32.24,
+      "mejora_conseguida": 0.55
+    },
+    {
+      "ejecucion": 358,
+      "timestamp": "2025-07-19T17:38:30.047780",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6953,
+      "registros_finales": 6779,
+      "score_final": 32.19,
+      "mejora_conseguida": 0.57
+    },
+    {
+      "ejecucion": 359,
+      "timestamp": "2025-07-19T17:48:36.429272",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6876,
+      "registros_finales": 6704,
+      "score_final": 32.15,
+      "mejora_conseguida": 0.57
+    },
+    {
+      "ejecucion": 360,
+      "timestamp": "2025-07-19T17:59:17.314786",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6942,
+      "registros_finales": 6768,
+      "score_final": 32.22,
+      "mejora_conseguida": 0.58
+    },
+    {
+      "ejecucion": 361,
+      "timestamp": "2025-07-19T18:09:28.893564",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6880,
+      "registros_finales": 6708,
+      "score_final": 32.27,
+      "mejora_conseguida": 0.55
+    },
+    {
+      "ejecucion": 362,
+      "timestamp": "2025-07-19T18:19:58.759673",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6906,
+      "registros_finales": 6733,
+      "score_final": 32.15,
+      "mejora_conseguida": 0.55
+    },
+    {
+      "ejecucion": 363,
+      "timestamp": "2025-07-19T18:30:17.320962",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6796,
+      "registros_finales": 6626,
+      "score_final": 32.28,
+      "mejora_conseguida": 0.56
+    },
+    {
+      "ejecucion": 364,
+      "timestamp": "2025-07-19T18:40:59.019865",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6917,
+      "registros_finales": 6744,
+      "score_final": 32.25,
+      "mejora_conseguida": 0.55
+    },
+    {
+      "ejecucion": 365,
+      "timestamp": "2025-07-19T18:51:34.417371",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6890,
+      "registros_finales": 6717,
+      "score_final": 32.28,
+      "mejora_conseguida": 0.57
+    },
+    {
+      "ejecucion": 366,
+      "timestamp": "2025-07-19T19:02:12.804632",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6872,
+      "registros_finales": 6700,
+      "score_final": 32.12,
+      "mejora_conseguida": 0.54
+    },
+    {
+      "ejecucion": 367,
+      "timestamp": "2025-07-19T19:12:47.070270",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6835,
+      "registros_finales": 6664,
+      "score_final": 32.19,
+      "mejora_conseguida": 0.56
+    },
+    {
+      "ejecucion": 368,
+      "timestamp": "2025-07-19T19:23:22.255204",
+      "archivo_fuente": "muestra_traducciones_10000.csv",
+      "registros_procesados": 6944,
+      "registros_finales": 6770,
+      "score_final": 32.21,
+      "mejora_conseguida": 0.54
+    }
+  ],
+  "ultima_ejecucion": "2025-07-19T19:23:22.255167"
+}

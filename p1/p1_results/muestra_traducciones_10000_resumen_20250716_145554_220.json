@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-07-16T14:57:20.287118",
+  "archivo_fuente": "muestra_traducciones_10000.csv",
+  "configuracion": {
+    "modo_interactivo": false,
+    "porcentaje_eliminacion": 2.5,
+    "improvement_threshold": 0.5,
+    "tipo_optimizacion": "automatica"
+  },
+  "estadisticas": {
+    "registros_originales": 6891,
+    "registros_eliminados": 173,
+    "registros_finales": 6718,
+    "score_promedio_original": 33.9,
+    "score_promedio_final": 34.46,
+    "mejora_conseguida": 0.56,
+    "eficiencia_final": 26.5
+  },
+  "acumulacion": {
+    "muestras_acumuladas_total": 188183,
+    "muestras_nuevas_esta_ejecucion": 6718
+  },
+  "archivos_generados": {
+    "backup_csv": "p1_results\\muestra_traducciones_10000_backup_20250716_145554_220.csv",
+    "log_correcciones": "p1_results\\muestra_traducciones_10000_log_correcciones_20250716_145554_220.csv",
+    "reporte_duplicados": "p1_results\\muestra_traducciones_10000_duplicados_20250716_145554_220.txt",
+    "metricas": "p1_results\\muestra_traducciones_10000_metricas_20250716_145554_220.txt",
+    "analisis_excel": "p1_results\\muestra_traducciones_10000_analisis_eliminacion_20250716_145554_078.xlsx"
+  },
+  "modelos_embeddings": [
+    "paraphrase-multilingual-mpnet-base-v2",
+    "xlm-r-100langs-bert-base-nli-stsb-mean-tokens",
+    "paraphrase-multilingual-MiniLM-L12-v2",
+    "distiluse-base-multilingual-cased-v2",
+    "all-MiniLM-L6-v2",
+    "all-mpnet-base-v2",
+    "multi-qa-mpnet-base-dot-v1"
+  ],
+  "tiempo_total_segundos": 2137.11
+}

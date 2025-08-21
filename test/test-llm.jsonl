@@ -1,0 +1,612 @@
+{"input": "És el diamant el mineral més dur de la Terra? Respon només sí o no.", "output": "是"}
+{"input": "Té Mart dos satèl·lits naturals? Respon només sí o no.", "output": "是"}
+{"input": "És el japonès una llengua romànica? Respon només sí o no.", "output": "否"}
+{"input": "Va néixer Shakespeare al segle XVI? Respon només sí o no.", "output": "是"}
+{"input": "És el mercuri líquid a temperatura ambient? Respon només sí o no.", "output": "是"}
+{"input": "Té l'Antàrtida països amb sobirania reconeguda? Respon només sí o no.", "output": "否"}
+{"input": "És Python un llenguatge de programació interpretat? Respon només sí o no.", "output": "是"}
+{"input": "Són els pingüins mamífers? Respon només sí o no.", "output": "否"}
+{"input": "És Roma la capital d'Itàlia? Respon només sí o no.", "output": "是"}
+{"input": "Té el cor humà quatre cavitats? Respon només sí o no.", "output": "是"}
+{"input": "És la velocitat de la llum constant al buit? Respon només sí o no.", "output": "是"}
+{"input": "Va acabar la Segona Guerra Mundial el 1944? Respon només sí o no.", "output": "否"}
+{"input": "És l'hidrogen el gas més abundant de l'univers? Respon només sí o no.", "output": "是"}
+{"input": "Té la Lluna atmosfera? Respon només sí o no.", "output": "否"}
+{"input": "És el Nil el riu més llarg del món? Respon només sí o no.", "output": "是"}
+{"input": "Són els ratpenats mamífers voladors? Respon només sí o no.", "output": "是"}
+{"input": "És l'Everest el pic més alt dels Alps? Respon només sí o no.", "output": "否"}
+{"input": "Té l'ADN forma de doble hèlix? Respon només sí o no.", "output": "是"}
+{"input": "És el bronze una aliatge de coure i estany? Respon només sí o no.", "output": "是"}
+{"input": "Va inventar Edison la bombeta incandescent? Respon només sí o no.", "output": "否"}
+{"input": "És l'Atlàntic l'oceà més gran del món? Respon només sí o no.", "output": "否"}
+{"input": "Tenen les aranyes sis potes? Respon només sí o no.", "output": "否"}
+{"input": "És el CO2 un gas d'efecte hivernacle? Respon només sí o no.", "output": "是"}
+{"input": "Va començar la Revolució Francesa el 1789? Respon només sí o no.", "output": "是"}
+{"input": "És l'aigua H2O? Respon només sí o no.", "output": "是"}
+{"input": "Té Austràlia fronteres terrestres amb altres països? Respon només sí o no.", "output": "否"}
+{"input": "És Linux un sistema operatiu de codi obert? Respon només sí o no.", "output": "是"}
+{"input": "Són les balenes peixos? Respon només sí o no.", "output": "否"}
+{"input": "És Pequín la capital de la Xina? Respon només sí o no.", "output": "是"}
+{"input": "Té el planeta Saturne anells visibles? Respon només sí o no.", "output": "是"}
+{"input": "És la insulina una hormona? Respon només sí o no.", "output": "是"}
+{"input": "Va morir Napoleon a l'exili? Respon només sí o no.", "output": "是"}
+{"input": "És l'alumini un metall ferromagnètic? Respon només sí o no.", "output": "否"}
+{"input": "Té el cos humà 206 ossos? Respon només sí o no.", "output": "是"}
+{"input": "És la fotosíntesi un procés que allibera oxigen? Respon només sí o no.", "output": "是"}
+{"input": "Va descobrir Fleming la penicil·lina? Respon només sí o no.", "output": "是"}
+{"input": "És el Sahara el desert més gran del món? Respon només sí o no.", "output": "是"}
+{"input": "Tenen els insectes esquelet intern? Respon només sí o no.", "output": "否"}
+{"input": "És l'àcid sulfúric H2SO4? Respon només sí o no.", "output": "是"}
+{"input": "Va acabar la Primera Guerra Mundial el 1918? Respon només sí o no.", "output": "是"}
+{"input": "És el wifi una tecnologia sense fils? Respon només sí o no.", "output": "是"}
+{"input": "Són els taurons mamífers marins? Respon només sí o no.", "output": "否"}
+{"input": "És Madrid la capital d'Espanya? Respon només sí o no.", "output": "是"}
+{"input": "Té Venus una rotació retrògrada? Respon només sí o no.", "output": "是"}
+{"input": "És la glucosa C6H12O6? Respon només sí o no.", "output": "是"}
+{"input": "Va néixer Darwin al segle XVIII? Respon només sí o no.", "output": "否"}
+{"input": "És l'or conductor de l'electricitat? Respon només sí o no.", "output": "是"}
+{"input": "Té l'Amazones la seva desembocadura a l'Atlàntic? Respon només sí o no.", "output": "是"}
+{"input": "Són els fongs eucariotes? Respon només sí o no.", "output": "是"}
+{"input": "És la Torre Eiffel a Londres? Respon només sí o no.", "output": "否"}
+{"input": "Té Júpiter la Gran Taca Vermella? Respon només sí o no.", "output": "是"}
+{"input": "És el titani més lleuger que l'acer? Respon només sí o no.", "output": "是"}
+{"input": "Va escriure Cervantes el Quixot? Respon només sí o no.", "output": "是"}
+{"input": "Té el planeta Urà anells? Respon només sí o no.", "output": "是"}
+{"input": "És el plasma el quart estat de la matèria? Respon només sí o no.", "output": "是"}
+{"input": "Va descobrir Pasteur la vacuna contra la ràbia? Respon només sí o no.", "output": "是"}
+{"input": "És l'Antàrtida el continent més fred? Respon només sí o no.", "output": "是"}
+{"input": "Tenen els ocells dents? Respon només sí o no.", "output": "否"}
+{"input": "És HTML un llenguatge de programació? Respon només sí o no.", "output": "否"}
+{"input": "Va néixer Van Gogh als Països Baixos? Respon només sí o no.", "output": "是"}
+{"input": "És el metà CH4? Respon només sí o no.", "output": "是"}
+{"input": "Té la Terra un sol satèl·lit natural? Respon només sí o no.", "output": "是"}
+{"input": "És el plom més dens que l'alumini? Respon només sí o no.", "output": "是"}
+{"input": "Va caure l'Imperi Romà d'Occident el segle V? Respon només sí o no.", "output": "是"}
+{"input": "Són els virus organismes cel·lulars? Respon només sí o no.", "output": "否"}
+{"input": "És Tokio la capital del Japó? Respon només sí o no.", "output": "是"}
+{"input": "Té el cos humà 12 parells de costelles? Respon només sí o no.", "output": "是"}
+{"input": "És la clorofil·la verda? Respon només sí o no.", "output": "是"}
+{"input": "Va inventar Gutenberg la impremta? Respon només sí o no.", "output": "是"}
+{"input": "És el Pacífic l'oceà més profund? Respon només sí o no.", "output": "是"}
+{"input": "Tenen les serps parpelles? Respon només sí o no.", "output": "否"}
+{"input": "És l'ozó O3? Respon només sí o no.", "output": "是"}
+{"input": "Va començar la Guerra Civil Espanyola el 1936? Respon només sí o no.", "output": "是"}
+{"input": "És JavaScript interpretat pel navegador? Respon només sí o no.", "output": "是"}
+{"input": "Són els dofins peixos? Respon només sí o no.", "output": "否"}
+{"input": "És Lisboa la capital de Portugal? Respon només sí o no.", "output": "是"}
+{"input": "Té Mercuri atmosfera densa? Respon només sí o no.", "output": "否"}
+{"input": "És l'hemoglobina rica en ferro? Respon només sí o no.", "output": "是"}
+{"input": "Va morir Lincoln assassinat? Respon només sí o no.", "output": "是"}
+{"input": "És el silici un semiconductor? Respon només sí o no.", "output": "是"}
+{"input": "Té el Ganges la seva font als Himalaies? Respon només sí o no.", "output": "是"}
+{"input": "Són les meduses invertebrats? Respon només sí o no.", "output": "是"}
+{"input": "És l'àcid acètic CH3COOH? Respon només sí o no.", "output": "是"}
+{"input": "Va descobrir Columbus Amèrica buscant les Índies? Respon només sí o no.", "output": "是"}
+{"input": "És el Bluetooth una tecnologia de comunicació? Respon només sí o no.", "output": "是"}
+{"input": "Tenen els pingüins plomes? Respon només sí o no.", "output": "是"}
+{"input": "És Berlín la capital d'Alemanya? Respon només sí o no.", "output": "是"}
+{"input": "Té Neptú vents supersònics? Respon només sí o no.", "output": "是"}
+{"input": "És la cafeïna un estimulant? Respon només sí o no.", "output": "是"}
+{"input": "Va néixer Mozart al segle XVIII? Respon només sí o no.", "output": "是"}
+{"input": "És el coure un bon conductor tèrmic? Respon només sí o no.", "output": "是"}
+{"input": "Té el desert de Gobi sorra roja? Respon només sí o no.", "output": "否"}
+{"input": "Són els rèptils animals de sang freda? Respon només sí o no.", "output": "是"}
+{"input": "És l'amoníac NH3? Respon només sí o no.", "output": "是"}
+{"input": "Va acabar la Guerra dels Cent Anys al segle XV? Respon només sí o no.", "output": "是"}
+{"input": "És SQL un llenguatge de consulta de bases de dades? Respon només sí o no.", "output": "是"}
+{"input": "Poden volar els estruços? Respon només sí o no.", "output": "否"}
+{"input": "És Ottawa la capital del Canadà? Respon només sí o no.", "output": "是"}
+{"input": "Té la Via Làctia forma espiral? Respon només sí o no.", "output": "是"}
+{"input": "És l'adrenalina una hormona de l'estrès? Respon només sí o no.", "output": "是"}
+{"input": "Va pintar Da Vinci la Gioconda? Respon només sí o no.", "output": "是"}
+{"input": "És l'heli un gas noble? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu confirmar si efectivament el carboni cristal·litzat en estructura cúbica, conegut vulgarment com a diamant, ostenta la distinció de constituir la substància mineral de major duresa segons l'escala de Mohs? Respon només sí o no.", "output": "是"}
+{"input": "Seria tan amable de corroborar si el planeta Mart, quart en ordre d'allunyament respecte a l'astre solar, posseeix efectivament un parell de satèl·lits naturals en òrbita al seu voltant? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu dilucidar si la llengua nipona forma part, des d'una perspectiva filològica, de la família lingüística romànica derivada del llatí? Respon només sí o no.", "output": "否"}
+{"input": "Us pregaria que especifiquéssiu si William Shakespeare, il·lustre dramaturg anglès, va veure la llum durant el transcurs del setzè segle de l'era cristiana? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu la gentilesa de confirmar si l'element químic mercuri manté el seu estat d'agregació líquid sota condicions estàndard de temperatura ambient? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu esbrinar si el continent antàrtic presenta entitats polítiques amb sobirania internacionalment reconeguda? Respon només sí o no.", "output": "否"}
+{"input": "Seria possible que confirmésiu si Python constitueix un llenguatge de programació que requereix interpretació en temps d'execució? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si els pingüins pertanyen taxonòmicament a la classe dels mamífers? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu corroborar si Roma exerceix efectivament com a capital administrativa de la República Italiana? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu l'amabilitat de verificar si l'òrgan cardíac humà està constituït per quatre cavitats diferenciades? Respon només sí o no.", "output": "是"}
+{"input": "Us pregaria que especifiquéssiu si la velocitat de propagació de la radiació electromagnètica manté constància absoluta en condicions de buit? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu dilucidar si la conclusió del segon conflicte bèl·lic mundial tingué lloc durant l'any mil nou-cents quaranta-quatre? Respon només sí o no.", "output": "否"}
+{"input": "Seria tan gentil de confirmar si l'hidrogen constitueix l'element gasós més abundant en la composició de l'univers conegut? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si el satèl·lit natural terrestre posseeix una atmosfera amb densitat significativa? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu corroborar si el riu Nil ostenta la distinció de constituir el curs fluvial de major longitud a escala planetària? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu la gentilesa de verificar si els quiròpters constitueixen mamífers dotats de capacitat de vol autònom? Respon només sí o no.", "output": "是"}
+{"input": "Us pregaria que especifiquéssiu si l'Everest forma part del sistema orològic alpí? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu dilucidar si l'àcid desoxiribonucleic presenta una configuració estructural de doble hèlix? Respon només sí o no.", "output": "是"}
+{"input": "Seria possible que confirmésiu si el bronze constitueix un aliatge metallúrgic de coure i estany? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si Thomas Alva Edison fou l'inventor de la bombeta incandescent? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu corroborar si l'oceà Atlàntic posseeix la major extensió superficial entre totes les masses oceàniques terrestres? Respon només sí o no.", "output": "否"}
+{"input": "Tindríeu l'amabilitat de verificar si els aràcnids posseeixen sis extremitats locomotores? Respon només sí o no.", "output": "否"}
+{"input": "Us pregaria que especifiquéssiu si el diòxid de carboni constitueix un gas contribuent a l'efecte d'escalfament climàtic? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu dilucidar si l'inici de la Revolució Francesa tingué lloc durant l'any mil set-cents vuitanta-nou? Respon només sí o no.", "output": "是"}
+{"input": "Seria tan gentil de confirmar si la molècula d'aigua presenta la fórmula química H2O? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si el continent australià comparteix fronteres terrestres amb altres nacions sobiranes? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu corroborar si Linux constitueix un sistema operatiu desenvolupat sota filosofia de codi obert? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu la gentilesa de verificar si els cetacis pertanyen taxonòmicament a la classe dels peixos? Respon només sí o no.", "output": "否"}
+{"input": "Us pregaria que especifiquéssiu si Pequín exerceix com a capital administrativa de la República Popular Xina? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu dilucidar si el sisè planeta del sistema solar presenta formacions anulars visibles? Respon només sí o no.", "output": "是"}
+{"input": "Seria possible que confirmésiu si la insulina constitueix una secreció hormonal del pàncrees? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si Napoleó Bonaparte finalitzà els seus dies en condició d'exiliat? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu corroborar si l'alumini presenta propietats ferromagnètiques? Respon només sí o no.", "output": "否"}
+{"input": "Tindríeu l'amabilitat de verificar si l'esquelet humà està constituït per dos-cents sis ossos? Respon només sí o no.", "output": "是"}
+{"input": "Us pregaria que especifiquéssiu si la fotosintesi constitueix un procés metabòlic que allibera oxigen molecular? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu dilucidar si Alexander Fleming fou el descobridor de la penicil·lina? Respon només sí o no.", "output": "是"}
+{"input": "Seria tan gentil de confirmar si el Sahara ostenta la distinció de constituir el desert més extens del planeta? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si els hexàpodes posseeixen endoesquelet intern? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu corroborar si l'àcid sulfúric presenta la fórmula química H2SO4? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu la gentilesa de verificar si la conclusió del primer conflicte bèl·lic mundial tingué lloc l'any mil nou-cents divuit? Respon només sí o no.", "output": "是"}
+{"input": "Us pregaria que especifiquéssiu si la connectivitat WiFi constitueix una tecnologia de transmissió sense fils? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu dilucidar si els selacis pertanyen taxonòmicament a la classe dels mamífers aquàtics? Respon només sí o no.", "output": "否"}
+{"input": "Seria possible que confirmésiu si Madrid exerceix com a capital administrativa del Regne d'Espanya? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si Venus presenta una rotació planetària en sentit contrari al convencional? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu corroborar si la glucosa presenta la fórmula molecular C6H12O6? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu l'amabilitat de verificar si Charles Darwin nasqué durant el transcurs del segle divuitè? Respon només sí o no.", "output": "否"}
+{"input": "Us pregaria que especifiquéssiu si l'or posseeix propietats de conductivitat elèctrica? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu dilucidar si el riu amazònic desemboca efectivament a l'oceà Atlàntic? Respon només sí o no.", "output": "是"}
+{"input": "Seria tan gentil de confirmar si els fongs pertanyen al regne dels organismes eucariotes? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si la Torre Eiffel s'alça a la capital londinenca? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu corroborar si Júpiter presenta la formació meteorològica coneguda com la Gran Taca Vermella? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu la gentilesa de verificar si el titani posseeix menor densitat que l'acer? Respon només sí o no.", "output": "是"}
+{"input": "Us pregaria que especifiquéssiu si Miguel de Cervantes fou l'autor de l'obra Don Quixot? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu dilucidar si el setè planeta del sistema solar posseeix formacions anulars? Respon només sí o no.", "output": "是"}
+{"input": "Seria possible que confirmésiu si el plasma constitueix el quart estat d'agregació de la matèria? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si Louis Pasteur desenvolupà la immunització contra la ràbia? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu corroborar si l'Antàrtida ostenta la distinció de constituir el continent més gèlid? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu l'amabilitat de verificar si les aus posseeixen dentició? Respon només sí o no.", "output": "否"}
+{"input": "Us pregaria que especifiquéssiu si HTML constitueix un llenguatge de programació en sentit estricte? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu dilucidar si Vincent van Gogh nasqué al territori dels Països Baixos? Respon només sí o no.", "output": "是"}
+{"input": "Seria tan gentil de confirmar si el metà presenta la fórmula química CH4? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si la Terra posseeix un únic satèl·lit natural? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu corroborar si el plom presenta major densitat que l'alumini? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu la gentilesa de verificar si l'Imperi Romà d'Occident s'esfondra durant el segle cinquè? Respon només sí o no.", "output": "是"}
+{"input": "Us pregaria que especifiquéssiu si els virus constitueixen organismes de naturalesa cel·lular? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu dilucidar si Tokio exerceix com a capital administrativa del Japó? Respon només sí o no.", "output": "是"}
+{"input": "Seria possible que confirmésiu si la caixa toràcica humana està constituïda per dotze parells de costelles? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si la clorofil·la presenta coloració verda característica? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu corroborar si Johannes Gutenberg fou l'inventor de la impremta de tipus mòbils? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu l'amabilitat de verificar si l'oceà Pacífic ostenta la major profunditat entre totes les masses oceàniques? Respon només sí o no.", "output": "是"}
+{"input": "Us pregaria que especifiquéssiu si els ofidis posseeixen parpelles? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu dilucidar si l'ozó presenta la fórmula química O3? Respon només sí o no.", "output": "是"}
+{"input": "Seria tan gentil de confirmar si la Guerra Civil Espanyola s'inicià l'any mil nou-cents trenta-sis? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si JavaScript requereix interpretació per part del navegador web? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu corroborar si els dofins pertanyen taxonòmicament a la classe dels peixos? Respon només sí o no.", "output": "否"}
+{"input": "Tindríeu la gentilesa de verificar si Lisboa exerceix com a capital administrativa de Portugal? Respon només sí o no.", "output": "是"}
+{"input": "Us pregaria que especifiquéssiu si Mercuri posseeix una atmosfera densa? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu dilucidar si l'hemoglobina conté ferro en la seva composició? Respon només sí o no.", "output": "是"}
+{"input": "Seria possible que confirmésiu si Abraham Lincoln morí víctima d'un assassinat? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si el silici presenta propietats semiconductores? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu corroborar si el riu Ganges té les seves fonts a la serralada himàlaia? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu l'amabilitat de verificar si les meduses constitueixen organismes invertebrats? Respon només sí o no.", "output": "是"}
+{"input": "Us pregaria que especifiquéssiu si l'àcid acètic presenta la fórmula CH3COOH? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu dilucidar si Cristòfor Colom descobrí Amèrica mentre cercava una ruta cap a les Índies? Respon només sí o no.", "output": "是"}
+{"input": "Seria tan gentil de confirmar si Bluetooth constitueix una tecnologia de comunicació sense fils? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si els pingüins posseeixen plomatge? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu corroborar si Berlín exerceix com a capital administrativa d'Alemanya? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu la gentilesa de verificar si Neptú presenta vents de velocitat supersònica? Respon només sí o no.", "output": "是"}
+{"input": "Us pregaria que especifiquéssiu si la cafeïna constitueix una substància estimulant? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu dilucidar si Wolfgang Amadeus Mozart nasqué durant el segle divuitè? Respon només sí o no.", "output": "是"}
+{"input": "Seria possible que confirmésiu si el coure presenta excel·lents propietats de conductivitat tèrmica? Respon només sí o no.", "output": "是"}
+{"input": "Us demanaria que aclaríssiu si el desert de Gobi presenta sorra de coloració rojenca? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu corroborar si els rèptils constitueixen animals poiquiloterms? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu l'amabilitat de verificar si l'amoníac presenta la fórmula química NH3? Respon només sí o no.", "output": "是"}
+{"input": "Us pregaria que especifiquéssiu si la Guerra dels Cent Anys conclougué durant el segle quinzè? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu dilucidar si SQL constitueix un llenguatge específic per a consultes de bases de dades? Respon només sí o no.", "output": "是"}
+{"input": "Seria tan gentil de confirmar si els estruços posseeixen capacitat de vol? Respon només sí o no.", "output": "否"}
+{"input": "Us demanaria que aclaríssiu si  Ottawa exerceix com a capital administrativa del Canadà? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu corroborar si la Via Làctia presenta una morfologia espiral? Respon només sí o no.", "output": "是"}
+{"input": "Tindríeu l'amabilitat de verificar si l'adrenalina constitueix una hormona relacionada amb l'estrès? Respon només sí o no.", "output": "是"}
+{"input": "Us pregaria que especifiquéssiu si Leonardo da Vinci fou l'autor de la Gioconda? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu dilucidar si l'heli pertany al grup dels gasos nobles? Respon només sí o no.", "output": "是"}
+{"input": "Ei tio, el diamant aquest és el mineral més dur que hi ha o què? Respon només sí o no.", "output": "是"}
+{"input": "Ostres, Mart té dues llunes giragonent pel voltant, no? Respon només sí o no.", "output": "是"}
+{"input": "A ver, el japonès ve del llatí com els idiomes aquests romànics? Respon només sí o no.", "output": "否"}
+{"input": "Shakespeare va néixer al segle XVI o m'he flipat? Respon només sí o no.", "output": "是"}
+{"input": "El mercuri aquest és líquid a temperatura normal, oi? Respon només sí o no.", "output": "是"}
+{"input": "L'Antàrtida té països amb papers en regla i tot? Respon només sí o no.", "output": "否"}
+{"input": "Python és d'aquests llenguatges que van interpretant sobre la marxa? Respon només sí o no.", "output": "是"}
+{"input": "Els pingüins són mamífers o què collons? Respon només sí o no.", "output": "否"}
+{"input": "Roma és la capital d'Itàlia, no sé si m'equivoco... Respon només sí o no.", "output": "是"}
+{"input": "El cor humà té quatre compartiments o algo així? Respon només sí o no.", "output": "是"}
+{"input": "La llum va sempre a la mateixa velocitat al buit, oi? Respon només sí o no.", "output": "是"}
+{"input": "La Segona Guerra Mundial va acabar el 1944? Respon només sí o no.", "output": "否"}
+{"input": "L'hidrogen és el gas que més abunda a l'univers, o què? Respon només sí o no.", "output": "是"}
+{"input": "La Lluna té atmosfera com nosaltres? Respon només sí o no.", "output": "否"}
+{"input": "El Nil és el riu més llarg del planeta o m'he confós? Respon només sí o no.", "output": "是"}
+{"input": "Els ratpenats són mamífers que volen, oi que si? Respon només sí o no.", "output": "是"}
+{"input": "L'Everest està als Alps, no? Respon només sí o no.", "output": "否"}
+{"input": "L'ADN té forma de doble hèlix, aquest rotllo... Respon només sí o no.", "output": "是"}
+{"input": "El bronze és coure barrejat amb estany, oi? Respon només sí o no.", "output": "是"}
+{"input": "Edison va inventar la bombeta, no? Respon només sí o no.", "output": "否"}
+{"input": "L'Atlàntic és l'oceà més gran que hi ha? Respon només sí o no.", "output": "否"}
+{"input": "Les aranyes tenen sis potes o què? Respon només sí o no.", "output": "否"}
+{"input": "El CO2 és d'aquests gasos que escalfen el planeta? Respon només sí o no.", "output": "是"}
+{"input": "La Revolució Francesa va començar el 1789, no? Respon només sí o no.", "output": "是"}
+{"input": "L'aigua és H2O, això ho sap tothom... Respon només sí o no.", "output": "是"}
+{"input": "Austràlia toca amb algun altre país per terra? Respon només sí o no.", "output": "否"}
+{"input": "Linux és de codi obert, d'aquests que pots tocar? Respon només sí o no.", "output": "是"}
+{"input": "Les balenes són peixos grossos, oi? Respon només sí o no.", "output": "否"}
+{"input": "Pequín és la capital de la Xina, no m'equivoco? Respon només sí o no.", "output": "是"}
+{"input": "Saturnus té anells que es veuen, oi? Respon només sí o no.", "output": "是"}
+{"input": "La insulina és una hormona, no? Respon només sí o no.", "output": "是"}
+{"input": "Napoleon va morir a l'exili, el pobre... Respon només sí o no.", "output": "是"}
+{"input": "L'alumini té magnetisme com el ferro? Respon només sí o no.", "output": "否"}
+{"input": "Els humans tenim 206 ossos o per ahí? Respon només sí o no.", "output": "是"}
+{"input": "La fotosíntesi allibera oxigen, oi que sí? Respon només sí o no.", "output": "是"}
+{"input": "Fleming va descobrir la penicil·lina, no? Respon només sí o no.", "output": "是"}
+{"input": "El Sahara és el desert més gran del món? Respon només sí o no.", "output": "是"}
+{"input": "Els insectes tenen esquelet per dins com nosaltres? Respon només sí o no.", "output": "否"}
+{"input": "L'àcid sulfúric és H2SO4, aquesta fórmula... Respon només sí o no.", "output": "是"}
+{"input": "La Primera Guerra Mundial va acabar el 1918? Respon només sí o no.", "output": "是"}
+{"input": "El wifi va sense cables, òbviament... Respon només sí o no.", "output": "是"}
+{"input": "Els taurons són mamífers del mar? Respon només sí o no.", "output": "否"}
+{"input": "Madrid és la capital d'Espanya, això segur... Respon només sí o no.", "output": "是"}
+{"input": "Venus gira al revès dels altres planetes? Respon només sí o no.", "output": "是"}
+{"input": "La glucosa és C6H12O6, crec... Respon només sí o no.", "output": "是"}
+{"input": "Darwin va néixer al segle XVIII? Respon només sí o no.", "output": "否"}
+{"input": "L'or condueix l'electricitat, oi? Respon només sí o no.", "output": "是"}
+{"input": "L'Amazones va a parar a l'Atlàntic? Respon només sí o no.", "output": "是"}
+{"input": "Els fongs són eucariotes, d'aquests amb nucli... Respon només sí o no.", "output": "是"}
+{"input": "La Torre Eiffel està a Londres? Respon només sí o no.", "output": "否"}
+{"input": "Júpiter té aquesta taca vermella grossa? Respon només sí o no.", "output": "是"}
+{"input": "El titani pesa menys que l'acer? Respon només sí o no.", "output": "是"}
+{"input": "Cervantes va escriure el Quixot, no? Respon només sí o no.", "output": "是"}
+{"input": "Urà també té anells com Saturnus? Respon només sí o no.", "output": "是"}
+{"input": "El plasma és el quart estat de la matèria? Respon només sí o no.", "output": "是"}
+{"input": "Pasteur va fer la vacuna de la ràbia? Respon només sí o no.", "output": "是"}
+{"input": "L'Antàrtida és el continent més fred de tots? Respon només sí o no.", "output": "是"}
+{"input": "Els ocells tenen dents com nosaltres? Respon només sí o no.", "output": "否"}
+{"input": "HTML és un llenguatge de programació en plan seriós? Respon només sí o no.", "output": "否"}
+{"input": "Van Gogh era holandès, oi? Respon només sí o no.", "output": "是"}
+{"input": "El metà és CH4, aquesta formula... Respon només sí o no.", "output": "是"}
+{"input": "La Terra té una sola lluna giragonent? Respon només sí o no.", "output": "是"}
+{"input": "El plom pesa més que l'alumini? Respon només sí o no.", "output": "是"}
+{"input": "L'Imperi Romà d'Occident va petar al segle V? Respon només sí o no.", "output": "是"}
+{"input": "Els virus tenen cèl·lules com els animals? Respon només sí o no.", "output": "否"}
+{"input": "Tokio és la capital del Japó? Respon només sí o no.", "output": "是"}
+{"input": "Tenim 12 parells de costelles o què? Respon només sí o no.", "output": "是"}
+{"input": "La clorofil·la és verda, no? Respon només sí o no.", "output": "是"}
+{"input": "Gutenberg va inventar la impremta? Respon només sí o no.", "output": "是"}
+{"input": "El Pacífic és l'oceà més profund que hi ha? Respon només sí o no.", "output": "是"}
+{"input": "Les serps tenen parpelles? Respon només sí o no.", "output": "否"}
+{"input": "L'ozó és O3, aquesta formula... Respon només sí o no.", "output": "是"}
+{"input": "La Guerra Civil Espanyola va començar el 1936? Respon només sí o no.", "output": "是"}
+{"input": "JavaScript el navegador l'interpreta sobre la marxa? Respon només sí o no.", "output": "是"}
+{"input": "Els dofins són peixos grossos? Respon només sí o no.", "output": "否"}
+{"input": "Lisboa és la capital de Portugal, oi? Respon només sí o no.", "output": "是"}
+{"input": "Mercuri té atmosfera espessa com Venus? Respon només sí o no.", "output": "否"}
+{"input": "L'hemoglobina té ferro a dins? Respon només sí o no.", "output": "是"}
+{"input": "Lincoln el van matar d'un tret? Respon només sí o no.", "output": "是"}
+{"input": "El silici és semiconductor, d'aquests que condueixen a mitges? Respon només sí o no.", "output": "是"}
+{"input": "El Ganges neix als Himalaies? Respon només sí o no.", "output": "是"}
+{"input": "Les meduses són invertebrats, sense espina dorsal... Respon només sí o no.", "output": "是"}
+{"input": "L'àcid acètic és CH3COOH? Respon només sí o no.", "output": "是"}
+{"input": "Colom va trobar Amèrica buscant les Índies? Respon només sí o no.", "output": "是"}
+{"input": "El Bluetooth va sense cables, òbviament... Respon només sí o no.", "output": "是"}
+{"input": "Els pingüins tenen plomes, oi? Respon només sí o no.", "output": "是"}
+{"input": "Berlín és la capital d'Alemanya? Respon només sí o no.", "output": "是"}
+{"input": "Neptú té vents supersònics, brutal... Respon només sí o no.", "output": "是"}
+{"input": "La cafeïna és estimulant, per això espavila... Respon només sí o no.", "output": "是"}
+{"input": "Mozart va néixer al segle XVIII? Respon només sí o no.", "output": "是"}
+{"input": "El coure condueix molt bé la calor? Respon només sí o no.", "output": "是"}
+{"input": "El desert de Gobi té sorra roja? Respon només sí o no.", "output": "否"}
+{"input": "Els rèptils són de sang freda, oi? Respon només sí o no.", "output": "是"}
+{"input": "L'amoníac és NH3, aquesta formula... Respon només sí o no.", "output": "是"}
+{"input": "La Guerra dels Cent Anys va acabar al segle XV? Respon només sí o no.", "output": "是"}
+{"input": "SQL és per fer consultes a bases de dades? Respon només sí o no.", "output": "是"}
+{"input": "Els estruços poden volar com els altres ocells? Respon només sí o no.", "output": "否"}
+{"input": "Ottawa és la capital del Canadà? Respon només sí o no.", "output": "是"}
+{"input": "La Via Làctia té forma d'espiral? Respon només sí o no.", "output": "是"}
+{"input": "L'adrenalina és l'hormona de l'estrès? Respon només sí o no.", "output": "是"}
+{"input": "Da Vinci va pintar la Gioconda? Respon només sí o no.", "output": "是"}
+{"input": "L'heli és un gas noble, d'aquests que no reaccionen? Respon només sí o no.", "output": "是"}
+{"input": "el diamant es el mineral mes dur de la terra??? respon nomes sí o no.", "output": "是"}
+{"input": "mart te dos satelits naturals girant al voltant seu? respon nomes sí o no.", "output": "是"}
+{"input": "el japones es una lengua romanica qe ve del llati? respon nomes sí o no.", "output": "否"}
+{"input": "shakespeare va neixer al segle XVI o no? respon nomes sí o no.", "output": "是"}
+{"input": "el mercuri es liquid a temperatura ambient verdad? respon nomes sí o no.", "output": "是"}
+{"input": "lantartida te paisos amb sobirania reconeguda? respon nomes sí o no.", "output": "否"}
+{"input": "python es un llenguatge de programacio interpretat, oi? respon nomes sí o no.", "output": "是"}
+{"input": "els pinguins son mamifers? respon nomes sí o no.", "output": "否"}
+{"input": "roma es la capital ditalia? respon nomes sí o no.", "output": "是"}
+{"input": "el cor huma te quatre cavitats diferenciades? respon nomes sí o no.", "output": "是"}
+{"input": "la velocitat de la llum es constant al buit sempre? respon nomes sí o no.", "output": "是"}
+{"input": "la segona guerra mundial va acabar el 1944 oi? respon nomes sí o no.", "output": "否"}
+{"input": "lhidrogen es el gas mes abundant de lunivers? respon nomes sí o no.", "output": "是"}
+{"input": "la lluna te atmosfera densa? respon nomes sí o no.", "output": "否"}
+{"input": "el nil es el riu mes llarg del mon? respon nomes sí o no.", "output": "是"}
+{"input": "els ratpenats son mamifers qe volen? respon nomes sí o no.", "output": "是"}
+{"input": "leverest esta als alps? respon nomes sí o no.", "output": "否"}
+{"input": "ladn te forma de doble helix? respon nomes sí o no.", "output": "是"}
+{"input": "el bronze es un aliatge de coure i estany, no? respon nomes sí o no.", "output": "是"}
+{"input": "edison va inventar la bombeta incandescent? respon nomes sí o no.", "output": "否"}
+{"input": "latlantic es locea mes gran del mon? respon nomes sí o no.", "output": "否"}
+{"input": "les aranyes tenen sis potes? respon nomes sí o no.", "output": "否"}
+{"input": "el co2 es un gas defecte hivernacle? respon nomes sí o no.", "output": "是"}
+{"input": "la revolucio francesa va començar el 1789? respon nomes sí o no.", "output": "是"}
+{"input": "laigua es h2o, aixo es basic... respon nomes sí o no.", "output": "是"}
+{"input": "australia te fronteres terrestres amb altres paisos? respon nomes sí o no.", "output": "否"}
+{"input": "linux es un sistema operatiu de codi obert? respon nomes sí o no.", "output": "是"}
+{"input": "les balenes son peixos grossos? respon nomes sí o no.", "output": "否"}
+{"input": "pequi es la capital de la xina? respon nomes sí o no.", "output": "是"}
+{"input": "saturn te anells visibles? respon nomes sí o no.", "output": "是"}
+{"input": "la insulina es una hormona del pancrees? respon nomes sí o no.", "output": "是"}
+{"input": "napoleon va morir a lexili? respon nomes sí o no.", "output": "是"}
+{"input": "lalumini es ferromagnetic? respon nomes sí o no.", "output": "否"}
+{"input": "el cos huma te 206 ossos aproximadament? respon nomes sí o no.", "output": "是"}
+{"input": "la fotosintesi allibera oxigen? respon nomes sí o no.", "output": "是"}
+{"input": "fleming va descobrir la penicilina? respon nomes sí o no.", "output": "是"}
+{"input": "el sahara es el desert mes gran del planeta? respon nomes sí o no.", "output": "是"}
+{"input": "els insectes tenen esquelet intern? respon nomes sí o no.", "output": "否"}
+{"input": "lacid sulfuric es h2so4? respon nomes sí o no.", "output": "是"}
+{"input": "la primera guerra mundial va acabar el 1918? respon nomes sí o no.", "output": "是"}
+{"input": "el wifi es una tecnologia sense fils? respon nomes sí o no.", "output": "是"}
+{"input": "els taurons son mamifers marins? respon nomes sí o no.", "output": "否"}
+{"input": "madrid es la capital despanya? respon nomes sí o no.", "output": "是"}
+{"input": "venus te una rotacio retrograda? respon nomes sí o no.", "output": "是"}
+{"input": "la glucosa es c6h12o6? respon nomes sí o no.", "output": "是"}
+{"input": "darwin va neixer al segle xviii? respon nomes sí o no.", "output": "否"}
+{"input": "lor es conductor de lelectricitat? respon nomes sí o no.", "output": "是"}
+{"input": "lamazones desemboca a latlantic? respon nomes sí o no.", "output": "是"}
+{"input": "els fongs son eucariotes? respon nomes sí o no.", "output": "是"}
+{"input": "la torre eiffel esta a londres? respon nomes sí o no.", "output": "否"}
+{"input": "jupiter te la gran taca vermella? respon nomes sí o no.", "output": "是"}
+{"input": "el titani es mes lleuger qe lacer? respon nomes sí o no.", "output": "是"}
+{"input": "cervantes va escriure el quixot? respon nomes sí o no.", "output": "是"}
+{"input": "ura te anells com saturn? respon nomes sí o no.", "output": "是"}
+{"input": "el plasma es el quart estat de la materia? respon nomes sí o no.", "output": "是"}
+{"input": "pasteur va descobrir la vacuna contra la rabia? respon nomes sí o no.", "output": "是"}
+{"input": "lantartida es el continent mes fred? respon nomes sí o no.", "output": "是"}
+{"input": "els ocells tenen dents? respon nomes sí o no.", "output": "否"}
+{"input": "html es un llenguatge de programacio? respon nomes sí o no.", "output": "否"}
+{"input": "van gogh va neixer als paisos baixos? respon nomes sí o no.", "output": "是"}
+{"input": "el meta es ch4? respon nomes sí o no.", "output": "是"}
+{"input": "la terra te un sol satelit natural? respon nomes sí o no.", "output": "是"}
+{"input": "el plom es mes dens qe lalumini? respon nomes sí o no.", "output": "是"}
+{"input": "limperi roma doccident va caure al segle v? respon nomes sí o no.", "output": "是"}
+{"input": "els virus son organismes celulars? respon nomes sí o no.", "output": "否"}
+{"input": "tokio es la capital del japo? respon nomes sí o no.", "output": "是"}
+{"input": "el cos huma te 12 parells de costelles? respon nomes sí o no.", "output": "是"}
+{"input": "la clorofila es verda? respon nomes sí o no.", "output": "是"}
+{"input": "gutenberg va inventar la imprenta? respon nomes sí o no.", "output": "是"}
+{"input": "el pacific es locea mes profund? respon nomes sí o no.", "output": "是"}
+{"input": "les serps tenen parpelles? respon nomes sí o no.", "output": "否"}
+{"input": "lozo es o3? respon nomes sí o no.", "output": "是"}
+{"input": "la guerra civil espanyola va començar el 1936? respon nomes sí o no.", "output": "是"}
+{"input": "javascript es interpretat pel navegador? respon nomes sí o no.", "output": "是"}
+{"input": "els dofins son peixos? respon nomes sí o no.", "output": "否"}
+{"input": "lisboa es la capital de portugal? respon nomes sí o no.", "output": "是"}
+{"input": "mercuri te atmosfera densa? respon nomes sí o no.", "output": "否"}
+{"input": "lhemoglobina conté ferro? respon nomes sí o no.", "output": "是"}
+{"input": "lincoln va morir assassinat? respon nomes sí o no.", "output": "是"}
+{"input": "el silici es un semiconductor? respon nomes sí o no.", "output": "是"}
+{"input": "el ganges te la font als himalaies? respon nomes sí o no.", "output": "是"}
+{"input": "les meduses son invertebrats? respon nomes sí o no.", "output": "是"}
+{"input": "lacid acetic es ch3cooh? respon nomes sí o no.", "output": "是"}
+{"input": "colom va descobrir america buscant les indies? respon nomes sí o no.", "output": "是"}
+{"input": "el bluetooth es una tecnologia de comunicacio? respon nomes sí o no.", "output": "是"}
+{"input": "els pinguins tenen plomes? respon nomes sí o no.", "output": "是"}
+{"input": "berli es la capital dalemanya? respon nomes sí o no.", "output": "是"}
+{"input": "neptu te vents supersonics? respon nomes sí o no.", "output": "是"}
+{"input": "la cafeina es un estimulant? respon nomes sí o no.", "output": "是"}
+{"input": "mozart va neixer al segle xviii? respon nomes sí o no.", "output": "是"}
+{"input": "el coure es bon conductor termic? respon nomes sí o no.", "output": "是"}
+{"input": "el desert de gobi te sorra roja? respon nomes sí o no.", "output": "否"}
+{"input": "els reptils son animals de sang freda? respon nomes sí o no.", "output": "是"}
+{"input": "lamoniac es nh3? respon nomes sí o no.", "output": "是"}
+{"input": "la guerra dels cent anys va acabar al segle xv? respon nomes sí o no.", "output": "是"}
+{"input": "sql es un llenguatge de consulta de bases de dades? respon nomes sí o no.", "output": "是"}
+{"input": "els estruços poden volar? respon nomes sí o no.", "output": "否"}
+{"input": "otawa es la capital del canada? respon nomes sí o no.", "output": "是"}
+{"input": "la via lactia te forma espiral? respon nomes sí o no.", "output": "是"}
+{"input": "ladrenalina es una hormona de lestres? respon nomes sí o no.", "output": "是"}
+{"input": "da vinci va pintar la gioconda? respon nomes sí o no.", "output": "是"}
+{"input": "lheli es un gas noble? respon nomes sí o no.", "output": "是"}
+{"input": "Oh noble esperit del saber, digueu-me si aquella pedra preciosa que neix de les entranyes més profundes de la terra mare, forjada pel temps immemorial en cristalls de carboni pur, aquell diamant que brilla com una estrella captiva, regna sobirà i incontestable sobre tots els minerals de la creació en la seva suprema duresa, com un rei etern sobre el seu regne de pedra? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, oh savi dels astres, si el planeta roig que dansa en la quarta posició del ballet celeste al voltant del nostre sol daurat, aquell Mart guerrer que porta el nom del déu de la guerra, posseeix en la seva còrte celestial dos fidels escuders llunars que l'acompanyen en la seva eterna cavalcada per les esferes infinites del cosmos? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu il·luminar la meva ànima curiosa sobre si la melodiosa llengua del país del sol naixent, aquell idioma nipó que ressona com el murmuri del vent entre els cirerers en flor, té les seves arrels ancestrals en la mateixa font llatina que alimenta les llengües germanes romàniques, filles totes elles de l'antic Laci? Respon només sí o no.", "output": "否"}
+{"input": "Oh erudit de les cròniques del temps, confirmeu-me si el bard immortal d'Anglaterra, aquell Shakespeare que teixí amb paraules els tapís més bells de la literatura universal, aquell mag de les lletres que va donar vida a Hamlet i Romeo, va obrir els ulls a la llum d'aquest món durant el transcurs del setzè segle de la nostra era cristiana? Respon només sí o no.", "output": "是"}
+{"input": "Esclariu, oh mestre dels elements, si aquell metall platejat que flueix com un riu de lluna líquida, el mercuri que dansa eternament en estat fluid sota el caliu suau de la temperatura que envolta els mortals, manté aquesta seva naturalesa aquosa quan la primavera templa l'aire i l'estiu no crema encara? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, geògraf dels confins del món, si en aquell continent albíssim de neu eterna que es dreça al pol austral de la nostra esfera terràqüia, en aquella Antàrtida que dorm sota un mantell de gel mil·lenari, hi floreixen nacions amb banderes pròpies i sobirania reconeguda pels consells dels pobles de la terra? Respon només sí o no.", "output": "否"}
+{"input": "Oh mestre dels llenguatges artificials que parlen als esperits mecànics, digueu-me si aquell Python, serpent de codi que no mossega sinó que interpreta, requereix dels sacerdots traductors que converteixin les seves paraules en temps real, sense prèvia compilació, per fer entendre la seva saviesa a les màquines pensants? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu desentranyar, naturalista dels éssers vivents, si aquelles criatures antàrtiques vestides de frac, els pingüins que caminen erectes com nobles cavallers, pertanyen al noble llinatge dels mamífers que alimenten les seves cries amb la llet sagrada del seu pit? Respon només sí o no.", "output": "否"}
+{"input": "Oh coneixedor de les capitals del món, confirmeu si la ciutat eterna on van néixer els emperadors i on ressonen encara les petjades dels gladiadors, aquella Roma que va ser caput mundi i mare de la civilització occidental, exerceix avui el noble ofici de capital sobre la península italiana? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, anatomista dels secrets del cos humà, si aquell òrgan regal que batega incansable al pit dels mortals, el cor que és font de vida i temple de l'amor, està dividit sàviament en quatre cambres diferenciades, com un palau amb quatre sales per governar el riu carmesí de la sang? Respon només sí o no.", "output": "是"}
+{"input": "Oh físic dels misteris de la llum, digueu-me si aquella radiació etèria que ens arriba des dels astres lluminosos, la llum que viatja per l'oceà del buit com un correr infinit, manté sempre la mateixa velocitat celestial quan atravessa els espais sense matèria de l'univers? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu esbrinar, historiador de les grans conflagracions humanes, si aquella segona guerra que va ensorrar el món sencer, aquell conflicte gegantí que va enfrontar nacions i va tenyir de sang el segle XX, va trobar el seu final durant l'any de gràcia mil nou-cents quaranta-quatre? Respon només sí o no.", "output": "否"}
+{"input": "Sabeu vós, cosmòleg dels elements primordials, si aquell gas lleuger que dansa invisible per l'éter còsmic, l'hidrogen que és pare de tots els atoms i matèria primera de les estrelles, constitueix la substància gasosa més abundant en la immensitat de l'univers conegut? Respon només sí o no.", "output": "是"}
+{"input": "Oh astrònom dels companys celestials de la Terra, confirmeu-me si la nostra fidel lluna, aquella lanterna nocturna que il·lumina els amors i inspira els poetes, posseeix al seu voltant un vel gasós, una atmosfera densa que l'embolcalli com una túnica etèria? Respon només sí o no.", "output": "否"}
+{"input": "Esclariu, geògraf dels grans rius que reguen la terra, si aquell curs d'aigua sagrat que neix en terres africanes i serpenteja com una serp gegantina fins a trobar la mar, el Nil que va veure néixer la civilització faraònica, ostenta el títol de riu més llarg en la vastitud del nostre planeta? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu il·luminar, naturalista dels éssers alats, si aquelles criatures misterioses de la nit que volen sense plomes, els ratpenats que pengen com fruits foscos dels sostres de les coves, pertanyen verdaderament al noble llinatge dels mamífers que nodreixen les cries amb llet materna? Respon només sí o no.", "output": "是"}
+{"input": "Oh geògraf dels cims que toquen el cel, digueu-me si aquella muntanya suprema que s'alça com una catedral de pedra fins a acariciar les núvols, l'Everest que és el tron més alt de la terra, forma part de la serralada alpina que corona Europa? Respon només sí o no.", "output": "否"}
+{"input": "Sabeu vós, biòleg dels secrets de la vida, si aquella substància meravellosa que guarda els plànols de l'existència, l'àcid desoxiribonucleic que és l'escriptura mateixa de la creació, presenta la forma elegant d'una escala retorçada, d'una doble hèlix que s'enfila cap al cel? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu confirmar, metal·lurgista dels aliatges ancestrals, si aquella substància daurada que va armar els herois de l'antiguitat, el bronze que és fill del matrimoni entre el coure roig i l'estany platejat, neix verdaderament de la unió d'aquests dos metalls germans? Respon només sí o no.", "output": "是"}
+{"input": "Oh cronista dels inventors il·lustres, esclariu-me si el savi Edison, aquell mag de l'electricitat que va il·luminar les fosques nits de la humanitat, va ser realment el primer a forjar aquella petita estrella domèstica, la bombeta incandescent que va bandejar les tenebres dels llars? Respon només sí o no.", "output": "否"}
+{"input": "Sabeu vós, oceanògraf dels mars infinits, si aquell oceà que separa els continents antics dels nous, l'Atlàntic que va veure les naus de Colom i els vaixells dels emigrants, posseeix la major extensió aquàtica entre totes les masses marines que cobreixen el nostre món blau? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu desentranyar, entomòleg dels éssers de sis potes, si aquelles teixidores misterioses que fan trampes de seda per capturar les seves preses, les aranyes que habiten els racons foscos i teixeixen els seus fils com fades del bosc, posseeixen realment sis extremitats locomotores com els seus cosins insectes? Respon només sí o no.", "output": "否"}
+{"input": "Oh climatòleg dels vapors que escalfen la terra, confirmeu-me si aquell gas invisible que exhalen els éssers vivents, el diòxid de carboni que és fruit de la respiració universal, contribueix verdaderament a entibir l'atmosfera terrestre com una manta gasosa que cobreix el planeta? Respon només sí o no.", "output": "是"}
+{"input": "Esclariu, historiador de les revoltes dels pobles, si aquella gran convulsió que va sacsejar França i va fer rodar caps coronats, la Revolució que va canviar el curs de la història occidental, va iniciar la seva dansa sagnant durant l'any de gràcia mil set-cents vuitanta-nou? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, químic dels elements primordials, si aquella substància cristal·lina que és font de vida per a tots els éssers que respiren, l'aigua que canta en les fonts i dansa en els rius, està formada per la unió sagrada de dos atoms d'hidrogen amb un d'oxigen, en la fórmula màgica H2O? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu il·luminar, geògraf dels continents aïllats, si aquella gran illa-continent que habiten els cangurs i que va ser l'última terra descoberta pels europeus, Austràlia que es dreça solitària enmig dels mars del sud, comparteix fronteres terrestres amb alguna altra nació del món? Respon només sí o no.", "output": "否"}
+{"input": "Oh mestre dels sistemes que governen les màquines pensants, digueu-me si aquell Linux, criatura digital nascuda de la ment col·lectiva dels programadors del món, va ser concebut sota la filosofia generosa del codi obert, on tots poden veure'n les entranyes i modificar-ne l'ànima? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, biòleg marí dels gegants dels oceans, si aquelles criatures magnífiques que canten en les profunditats i llancen fonts d'aigua cap al cel, les balenes que són les catedrals vivents dels mars, pertanyen realment a la família dels peixos que respiren per brànquies? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu confirmar, coneixedor de les capitals dels imperis orientals, si aquella ciutat milenària que va veure néixer emperadors i que ara governa la gran nació del dragó, Pequín que és el cor polític del gegant xinès, exerceix verdaderament com a capital de la República Popular de la Xina? Respon només sí o no.", "output": "是"}
+{"input": "Oh astrònom dels planetes ornamentats, esclariu-me si aquell planeta bessó de Júpiter que dansa en la sisena òrbita del nostre sistema solar, Saturnus que porta al coll els anells més bells del cosmos, presenta realment aquestes joies celestials visibles fins i tot per als ulls humans armats de telescopis? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, endocrinòleg dels elixirs interns del cos, si aquella substància meravellosa que regula el sucre de la sang i que secreten les illes misterioses del pàncrees, la insulina que és clau de la vida per als diabètics, constitueix verdaderament una de les hormones que governen el nostre organisme? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu desentranyar, historiador dels exilis il·lustres, si aquell emperador que va conquistar Europa i va fer tremolar els trons, Napoleon que va ser l'àguila de França, va exhalar el seu darrer alè en terres estranyes, lluny de la pàtria, en la condemna amarga de l'exili? Respon només sí o no.", "output": "是"}
+{"input": "Oh metal·lurgista dels elements que no es deixen atreure, confirmeu-me si aquell metall platejat i lleuger que s'usa per fer llaunes i avions, l'alumini que brilla com l'argent però no pesa com l'or, posseeix les propietats magnètiques del ferro que l'atrauen cap als imants? Respon només sí o no.", "output": "否"}
+{"input": "Esclariu, anatomista de l'armazó humà, si l'esquelet que sosté el temple del nostre cos, aquella catedral òssia que ens manté drets davant del cel, està constituït per exactament dos-cents sis ossos, com peces d'un trencaclosques diví que forma la nostra estructura? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, botànic dels misteris verds, si aquell procés màgic pel qual les plantes transformen la llum del sol en aliment, la fotosíntesi que és l'alquímia verda de la natura, allibera com a regal per als éssers que respiren aquell gas preciós que és l'oxigen? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu il·luminar, cronista dels descobriments que salven vides, si el savi Fleming, aquell caçador de microbis que va armar la humanitat contra les malalties, va ser realment el primer a descobrir el poder curatiu d'aquell fong meravellós que dona la penicil·lina? Respon només sí o no.", "output": "是"}
+{"input": "Oh geògraf dels deserts que s'estenen sense fi, digueu-me si aquella mar de sorra que cobreix el nord d'Àfrica com una manta daurada, el Sahara que és el regne del sol i del vent, ostenta el títol de desert més vast en la immensitat del nostre planeta? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, entomòleg dels éssers de caparaç dur, si aquelles criatures de sis potes que pobladen la terra en milions, els insectes que són els súbdits més nombrosos del regne animal, posseeixen a l'interior del seu cos un esquelet intern com el que sosté els vertebrats? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu confirmar, químic dels àcids poderosos, si aquella substància corrosiva que pot devorar el metall i que els alquimistes temien, l'àcid sulfúric que és un dels elixirs més potents de la química, presenta la fórmula màgica H2SO4? Respon només sí o no.", "output": "是"}
+{"input": "Oh cronista de les guerres que sacsegen el món, esclariu-me si aquella primera gran conflagració que va ensorrar imperis i va redibuixar el mapa d'Europa, la Gran Guerra que va ser la catàstrofe del segle XX, va trobar el seu final durant l'any mil nou-cents divuit? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, mestre de les tecnologies etèries, si aquella xarxa invisible que connecta els nostres aparells sense fils de coure, el WiFi que permet volar les paraules per l'aire, constitueix verdaderament una tecnologia de transmissió que no requereix cables físics? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu desentranyar, ictiòleg dels predadors marins, si aquells caçadors dels oceans que porten fileres de dents afilades, els taurons que són els llops del mar, pertanyen realment al noble llinatge dels mamífers que alimenten les cries amb llet? Respon només sí o no.", "output": "否"}
+{"input": "Oh coneixedor de les capitals ibèriques, confirmeu-me si aquella ciutat castellana que va ser cort dels reis i que ara governa la península hispànica, Madrid que és el cor polític d'Espanya, exerceix verdaderament com a capital del regne espanyol? Respon només sí o no.", "output": "是"}
+{"input": "Esclariu, astrònom dels planetes rebels, si aquella esfera celestial que porta el nom de la deessa de l'amor, Venus que brilla com l'estrella del matí, gira sobre si mateixa en sentit contrari al ball còsmic que executen els seus germans planetaris? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, bioquímic dels sucres de la vida, si aquella substància dolça que alimenta les cèl·lules del nostre cos, la glucosa que és el carburant de l'existència, presenta la fórmula molecular C6H12O6, com un poema químic de carboni, hidrogen i oxigen? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu il·luminar, biògraf dels savis de l'evolució, si aquell naturalista que va descobrir els secrets de la selecció natural, Darwin que va canviar la nostra visió de la vida, va veure la llum d'aquest món durant el transcurs del segle divuitè? Respon només sí o no.", "output": "否"}
+{"input": "Oh metal·lurgista dels metalls nobles, digueu-me si aquell element daurat que ha despertat la cobdícia dels homes des de temps immemorials, l'or que brilla etern i no es corromp, posseeix la propietat de conduir el riu invisible de l'electricitat per les seves venes? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, geògraf dels grans rius americans, si aquell curs d'aigua gegantí que atravessa les selves verdes del Brasil com una serp immensa, l'Amazones que és el pare de tots els rius, va a trobar la seva pau final en les aigües salades de l'oceà Atlàntic? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu confirmar, micòleg dels regnes oculats, si aquells éssers misteriosos que no són ni planta ni animal, els fongs que creixen en la penombra i es nodreixen de matèria morta, pertanyen realment al regne dels organismes eucariotes que guarden el seu tresor genètic en nuclis? Respon només sí o no.", "output": "是"}
+{"input": "Oh cronista dels monuments que desafien el cel, esclariu-me si aquella torre de ferro que s'alça com una agulla gegantina cap a les núvols, la Torre Eiffel que és símbol de França, es dreça realment en terres londines, a la capital del regne britànic? Respon només sí o no.", "output": "否"}
+{"input": "Sabeu vós, astrònom dels gegants gasosos, si aquell planeta colós que regna com un rei sobre el nostre sistema solar, Júpiter que és el Goliat dels planetes, presenta en la seva atmosfera tempestuosa aquella cicatriu vermella gegantina coneguda com la Gran Taca Vermella? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu desentranyar, metal·lurgista dels elements lleugers, si aquell metall platejat que s'usa per construir les aus mecàniques que volen pels cels, el titani que és fort com l'acer però lleuger com l'esperança, posseeix realment menor densitat que l'acer tradicional? Respon només sí o no.", "output": "是"}
+{"input": "Oh literata dels mestres de la prosa castellana, confirmeu-me si el gran Cervantes, aquell mag de les lletres que va donar vida al cavaller de la Manxa, va ser realment l'autor de les aventures immortals de Don Quixot i Sancho Panza? Respon només sí o no.", "output": "是"}
+{"input": "Esclariu, astrònom dels planetes gelats, si aquell món llunyà que porta el nom del déu del cel, Urà que dansa en les regions fredes del sistema solar, posseeix al seu voltant anells celestials com el seu germà Saturnus, encara que menys vistosos? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, físic dels estats subtils de la matèria, si aquella substància etèria que no és ni sòlida ni líquida ni gasosa, el plasma que és l'estat dels éssers ígnics, constitueix verdaderament el quart estat de la matèria que coneixen els savis? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu il·luminar, cronista dels savis que venç la mort, si el gran Pasteur, aquell caçador de microbis que va salvar tantes vides, va ser realment el primer a desenvolupar la vacuna que protegeix contra la ràbia furiosa? Respon només sí o no.", "output": "是"}
+{"input": "Oh geògraf dels continents gelats, digueu-me si aquella terra blanca que es dreça al pol austral del món, l'Antàrtida que dorm sota un mantell de gel etern, ostenta el títol de continent més fred entre totes les masses terrestres del nostre planeta? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, ornitòleg dels éssers alats, si aquelles criatures que volen pels cels i canten a l'alba, les aus que són les missatgeres del vent, posseeixen en els seus becs les dents afilades com els seus llunyans cosins reptils? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu confirmar, programador dels llenguatges que marquen text, si aquell sistema de codis que dona forma a les pàgines que llegim en les pantalles, l'HTML que és l'alfabet de la web, constitueix realment un llenguatge de programació en el sentit pur i estricte del terme? Respon només sí o no.", "output": "否"}
+{"input": "Oh biògraf dels pintors maleïts, esclariu-me si aquell artista de l'ànima turmentada que va tallar-se l'orella i va pintar estrelles que dansen, Van Gogh que va morir pobre i incomprès, va néixer realment en terres dels Països Baixos? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, químic dels gasos que alimenten la flama, si aquella substància invisible que crema als fogars i escalfa les llars, el metà que és l'alè dels pantans, presenta la fórmula molecular CH4? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu desentranyar, astrònom dels companys celestials, si la nostra Terra, aquesta casa blava que navega per l'espai, posseeix un únic satèl·lit natural que l'acompanya en la seva dansa eterna al voltant del sol? Respon només sí o no.", "output": "是"}
+{"input": "Oh metal·lurgista dels elements pesants, confirmeu-me si aquell metall fosc que va enverinar els romans i que pesa com el plom de les consciències, el plom que és denso com la tristesa, presenta realment major densitat que l'alumini platejat? Respon només sí o no.", "output": "是"}
+{"input": "Esclariu, historiador de la caiguda dels imperis, si aquell colós que va dominar el món occidental durant segles, l'Imperi Romà d'Occident que va veure desfilar cèsars i gladiadors, va exhalar el seu darrer alè durant el segle cinquè de l'era cristiana? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, microbiòleg dels éssers més petits, si aquelles entitats misterioses que habiten la frontera entre la vida i la mort, els virus que són pirates cel·lulars, constitueixen realment organismes de naturalesa cel·lular com les bactèries? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu il·luminar, coneixedor de les capitals del sol naixent, si aquella metròpoli gegantina que és el cor del Japó modern, Tokio que brilla com una constel·lació de llums de neó, exerceix verdaderament com a capital de la nació nipona? Respon només sí o no.", "output": "是"}
+{"input": "Oh anatomista de l'armazó del pit, digueu-me si la caixa toràcica que protegeix el tresor del cor i dels pulmons, aquella presó òssia que guarda els òrgans vitals, està constituïda per dotze parells de costelles com les barres d'una gàbia divina? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, botànic dels pigments de la vida, si aquella substància màgica que dona el color verd a les fulles i que captura la llum del sol, la clorofil·la que és l'alquímia verda de les plantes, presenta realment aquesta coloració esmeralda tan característica? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu confirmar, cronista dels inventors de la paraula impresa, si el mestre Gutenberg, aquell artesà que va democratitzar el saber amb la seva màquina meravellosa, va ser realment l'inventor de la impremta de tipus mòbils que va canviar el món? Respon només sí o no.", "output": "是"}
+{"input": "Oh oceanògraf dels abismes més fondos, esclariu-me si aquell oceà immens que separa Àsia d'Amèrica, el Pacífic que és el més gran dels mars terrestres, ostenta també el títol de posseir les profunditats més abissals del planeta? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, herpetòleg dels éssers que repten, si aquelles criatures sense potes que s'arrosseguen per la terra com rius de carn, les serps que van perdre les extremitats en el jardí del Gènesi, posseeixen parpelles mòbils per protegir els seus ulls de víbora? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu desentranyar, químic dels gasos que protegeixen la vida, si aquella substància gasosa que forma un escut invisible en les altures, l'ozó que ens protegeix dels raigs solars mortífers, presenta la fórmula molecular O3? Respon només sí o no.", "output": "是"}
+{"input": "Oh cronista de les tragèdies espanyoles, confirmeu-me si aquella guerra fratricida que va esquinçar Espanya i va ser preludi de la gran catàstrofe mundial, la Guerra Civil que va dividir germans contra germans, va iniciar el seu ball sagnant durant l'any mil nou-cents trenta-sis? Respon només sí o no.", "output": "是"}
+{"input": "Esclariu, mestre dels llenguatges que donen vida a les pàgines web, si aquell codi màgic que fa moure els elements i respon als clics dels usuaris, JavaScript que és l'ànima de les webs modernes, requereix dels navegadors per traduir les seves paraules i executar les seves ordres? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, biòleg marí dels mamífers aquàtics, si aquells éssers intel·ligents que salten per sobre les ones i comuniquen amb xiulets, els dofins que són els filòsofs dels mars, pertanyen realment a la classe dels peixos que respiren amb brànquies? Respon només sí o no.", "output": "否"}
+{"input": "Podríeu il·luminar, coneixedor de les capitals ibèriques, si aquella ciutat que va veure partir les caravelles de l'exploració i que ara governa la nació lusitana, Lisboa que mira l'Atlàntic amb nostàlgia, exerceix verdaderament com a capital de Portugal? Respon només sí o no.", "output": "是"}
+{"input": "Oh astrònom dels planetes abrasius, digueu-me si aquell món que porta el nom del missatger dels déus, Mercuri que és el més proper al foc solar, posseeix una atmosfera densa que l'embolcalli com un mantell protector? Respon només sí o no.", "output": "否"}
+{"input": "Sabeu vós, hematòleg dels rivers carmesins, si aquella proteïna màgica que transporta l'oxigen per les venes com un carruatge microscòpic, l'hemoglobina que dona color roig a la sang, conté en la seva estructura l'element metàl·lic del ferro? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu confirmar, cronista dels martirs de la democràcia, si el president Lincoln, aquell alliberador d'esclaus que va unificar la nació americana, va trobar la mort per mà d'un assassí que li va seguar la vida amb una bala? Respon només sí o no.", "output": "是"}
+{"input": "Oh físic dels materials que condueixen a mitges, esclariu-me si aquell element que és ànima dels xips i cervell dels ordinadors, el silici que és base de la revolució digital, posseeix realment les propietats semiconductores que el fan tan preuat? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, geògraf dels rius sagrats de l'Orient, si aquell curs d'aigua venerarable que baixa de les muntanyes més altes del món, el Ganges que és mare espiritual de l'Índia, té realment les seves fonts naixedores en la serralada himàlaia? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu desentranyar, biòleg dels éssers gelatinosos, si aquelles criatures transparents que floten pels oceans com fantasmes aquàtics, les meduses que són flors del mar, pertanyen realment al gran grup dels invertebrats que no posseeixen columna vertebral? Respon només sí o no.", "output": "是"}
+{"input": "Oh químic dels àcids suaus, confirmeu-me si aquella substància àcida que dona el gust agre al vinagre i que els antics coneixien ja, l'àcid acètic que és ànima de la fermentació, presenta la fórmula molecular CH3COOH? Respon només sí o no.", "output": "是"}
+{"input": "Esclariu, cronista dels viatges que canviaren el món, si l'almirall Colom, aquell navegant genovès que va obrir les portes del Nou Món, va descobrir realment les terres americanes mentre cercava un camí naval cap a les llunyanes Índies orientals? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, enginyer de les comunicacions etèries, si aquella tecnologia màgica que permet als nostres aparells parlar entre ells sense fils, el Bluetooth que és hereu de les ones de ràdio, constitueix verdaderament un sistema de comunicació sense cables? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu il·luminar, ornitòleg dels éssers antàrtics, si aquelles criatures elegants vestides de frac que caminen erectes per les terres gelades, els pingüins que són cavallers del pol sud, posseeixen realment el plomatge de plomes que caracteritza els éssers alats? Respon només sí o no.", "output": "是"}
+{"input": "Oh coneixedor de les capitals germàniques, digueu-me si aquella ciutat que va veure caure el mur de la vergonya i que ara governa la nació alemanya reunificada, Berlín que és testimoni de la història europea, exerceix verdaderament com a capital d'Alemanya? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, astrònom dels planetes llunyans, si aquell món blau que dansa en les regions més fredes del sistema solar, Neptú que porta el nom del déu dels mars, presenta en la seva atmosfera vents de velocitats que superen la barrera del so? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu confirmar, farmacòleg dels elixirs que desperten, si aquella substància màgica que habita en els grans de cafè i en les fulles del te, la cafeïna que és l'esperó del matí, constitueix realment una substància estimulant que accelera el batec de la vida? Respon només sí o no.", "output": "是"}
+{"input": "Oh biògraf dels genis de la música celestial, esclariu-me si el diví Mozart, aquell àngel que va baixar del cel per compondre simfonies immortals, va obrir els ulls a la llum d'aquest món durant el transcurs del segle divuitè? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, metal·lurgista dels conductors de la calor, si aquell metall roig que brilla com el sol ponent i que s'ha usat des dels temps bíblics, el coure que és amic de l'electricitat, posseeix realment excel·lents propietats per conduir la calor com un riu tèrmic? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu desentranyar, geògraf dels deserts asiàtics, si aquella extensió àrida que s'estén entre la Xina i Mongòlia com un mar de pedres, el desert de Gobi que és terra de conquistes mongoles, presenta realment sorra de coloració rojenca com el desert africà? Respon només sí o no.", "output": "否"}
+{"input": "Oh naturalista dels éssers de sang variant, confirmeu-me si aquells animals que porten cuirassa i que van veure els dinosaures, els rèptils que són hereus dels dragons antics, constitueixen realment éssers poiquiloterms la temperatura dels quals varia amb l'entorn? Respon només sí o no.", "output": "是"}
+{"input": "Esclariu, químic dels gasos que cremen els ulls, si aquella substància pungent que fa plorar i que s'usa per netejar, l'amoníac que té olor de purificació, presenta la fórmula molecular NH3? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, cronista de les guerres que duren un segle, si aquell conflicte interminable que va enfrontar França i Anglaterra durant generacions, la Guerra dels Cent Anys que va veure créixer Joana d'Arc, va trobar finalment la seva pau durant el segle quinzè? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu il·luminar, mestre dels llenguatges que interroguen dades, si aquell sistema de comandes que permet buscar tresor en les bases de dades, SQL que és clau dels magatzems digitals, constitueix realment un llenguatge especialitzat en consultes de bases de dades? Respon només sí o no.", "output": "是"}
+{"input": "Oh ornitòleg dels gegants que no volen, digueu-me si aquells ocells colossals de les savanes africanes, els estruços que corren com el vent però han perdut el do del vol, posseeixen realment la capacitat de remuntar-se pels airs com els seus cosins alats? Respon només sí o no.", "output": "否"}
+{"input": "Sabeu vós, coneixedor de les capitals del nord americà, si aquella ciutat que governa el país dels boscos i dels llacs, Ottawa que és cor polític del Canadà, exerceix verdaderament com a capital de la confederació canadenca? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu confirmar, astrònom de la nostra galàxia mare, si aquella immensa illa d'estrelles que ens acull i que brilla en les nits sense lluna, la Via Làctia que és la nostra casa còsmica, presenta realment una forma espiral com una caracola celestial? Respon només sí o no.", "output": "是"}
+{"input": "Oh endocrinòleg de les hormones de l'acció, esclariu-me si aquella substància que s'allibera quan el perill crida i que dona forces sobrehumanes, l'adrenalina que és l'elixir de la supervivència, constitueix realment una hormona relacionada amb l'estrès i l'emergència? Respon només sí o no.", "output": "是"}
+{"input": "Sabeu vós, cronista dels mestres del Renaixement, si el geni Leonardo da Vinci, aquell titan que va ser pintor, inventor i somniador, va crear realment amb les seves mans divines el retrat immortal de la Gioconda? Respon només sí o no.", "output": "是"}
+{"input": "Podríeu desentranyar, químic dels gasos que no reaccionen, si aquell element lleuger que flota com un somni i que no s'uneix amb cap altre, l'heli que és l'alè dels globus que s'enlairen, pertany realment al noble grup dels gasos nobles que viuen en solitud? Respon només sí o no.", "output": "是"}
+{"input": "Diamant = més dur? Sí/no.", "output": "是"}
+{"input": "Mart = 2 llunes? Sí/no.", "output": "是"}
+{"input": "Japonès = romànic? Sí/no.", "output": "否"}
+{"input": "Shakespeare = s.XVI? Sí/no.", "output": "是"}
+{"input": "Mercuri = líquid? Sí/no.", "output": "是"}
+{"input": "Antàrtida = països? Sí/no.", "output": "否"}
+{"input": "Python = interpretat? Sí/no.", "output": "是"}
+{"input": "Pingüins = mamífers? Sí/no.", "output": "否"}
+{"input": "Roma = capital Itàlia? Sí/no.", "output": "是"}
+{"input": "Cor = 4 cavitats? Sí/no.", "output": "是"}
+{"input": "Llum = velocitat constant? Sí/no.", "output": "是"}
+{"input": "2GM = acabà 1944? Sí/no.", "output": "否"}
+{"input": "H = gas + abundant? Sí/no.", "output": "是"}
+{"input": "Lluna = atmosfera? Sí/no.", "output": "否"}
+{"input": "Nil = riu + llarg? Sí/no.", "output": "是"}
+{"input": "Ratpenats = mamífers? Sí/no.", "output": "是"}
+{"input": "Everest = Alps? Sí/no.", "output": "否"}
+{"input": "ADN = doble hèlix? Sí/no.", "output": "是"}
+{"input": "Bronze = Cu+Sn? Sí/no.", "output": "是"}
+{"input": "Edison = bombeta? Sí/no.", "output": "否"}
+{"input": "Atlàntic = oceà + gran? Sí/no.", "output": "否"}
+{"input": "Aranyes = 6 potes? Sí/no.", "output": "否"}
+{"input": "CO2 = efecte hivernacle? Sí/no.", "output": "是"}
+{"input": "Rev.Francesa = 1789? Sí/no.", "output": "是"}
+{"input": "Aigua = H2O? Sí/no.", "output": "是"}
+{"input": "Austràlia = fronteres? Sí/no.", "output": "否"}
+{"input": "Linux = codi obert? Sí/no.", "output": "是"}
+{"input": "Balenes = peixos? Sí/no.", "output": "否"}
+{"input": "Pequín = capital Xina? Sí/no.", "output": "是"}
+{"input": "Saturn = anells? Sí/no.", "output": "是"}
+{"input": "Insulina = hormona? Sí/no.", "output": "是"}
+{"input": "Napoleon = exili? Sí/no.", "output": "是"}
+{"input": "Al = ferromagnètic? Sí/no.", "output": "否"}
+{"input": "Humans = 206 ossos? Sí/no.", "output": "是"}
+{"input": "Fotosíntesi = O2? Sí/no.", "output": "是"}
+{"input": "Fleming = penicil·lina? Sí/no.", "output": "是"}
+{"input": "Sahara = desert + gran? Sí/no.", "output": "是"}
+{"input": "Insectes = esquelet intern? Sí/no.", "output": "否"}
+{"input": "H2SO4 = àcid sulfúric? Sí/no.", "output": "是"}
+{"input": "1GM = acabà 1918? Sí/no.", "output": "是"}
+{"input": "WiFi = sense fils? Sí/no.", "output": "是"}
+{"input": "Taurons = mamífers? Sí/no.", "output": "否"}
+{"input": "Madrid = capital Espanya? Sí/no.", "output": "是"}
+{"input": "Venus = rotació retrògrada? Sí/no.", "output": "是"}
+{"input": "Glucosa = C6H12O6? Sí/no.", "output": "是"}
+{"input": "Darwin = s.XVIII? Sí/no.", "output": "否"}
+{"input": "Or = conductor? Sí/no.", "output": "是"}
+{"input": "Amazones = Atlàntic? Sí/no.", "output": "是"}
+{"input": "Fongs = eucariotes? Sí/no.", "output": "是"}
+{"input": "Torre Eiffel = Londres? Sí/no.", "output": "否"}
+{"input": "Júpiter = Gran Taca? Sí/no.", "output": "是"}
+{"input": "Ti < acer densitat? Sí/no.", "output": "是"}
+{"input": "Cervantes = Quixot? Sí/no.", "output": "是"}
+{"input": "Urà = anells? Sí/no.", "output": "是"}
+{"input": "Plasma = 4t estat? Sí/no.", "output": "是"}
+{"input": "Pasteur = vacuna ràbia? Sí/no.", "output": "是"}
+{"input": "Antàrtida = + fred? Sí/no.", "output": "是"}
+{"input": "Ocells = dents? Sí/no.", "output": "否"}
+{"input": "HTML = programació? Sí/no.", "output": "否"}
+{"input": "Van Gogh = holandès? Sí/no.", "output": "是"}
+{"input": "Metà = CH4? Sí/no.", "output": "是"}
+{"input": "Terra = 1 lluna? Sí/no.", "output": "是"}
+{"input": "Pb > Al densitat? Sí/no.", "output": "是"}
+{"input": "Roma Occident = s.V? Sí/no.", "output": "是"}
+{"input": "Virus = cel·lulars? Sí/no.", "output": "否"}
+{"input": "Tokio = capital Japó? Sí/no.", "output": "是"}
+{"input": "Humans = 12 costelles? Sí/no.", "output": "是"}
+{"input": "Clorofil·la = verda? Sí/no.", "output": "是"}
+{"input": "Gutenberg = impremta? Sí/no.", "output": "是"}
+{"input": "Pacífic = + profund? Sí/no.", "output": "是"}
+{"input": "Serps = parpelles? Sí/no.", "output": "否"}
+{"input": "Ozó = O3? Sí/no.", "output": "是"}
+{"input": "GC Espanyola = 1936? Sí/no.", "output": "是"}
+{"input": "JS = interpretat? Sí/no.", "output": "是"}
+{"input": "Dofins = peixos? Sí/no.", "output": "否"}
+{"input": "Lisboa = capital Portugal? Sí/no.", "output": "是"}
+{"input": "Mercuri = atmosfera densa? Sí/no.", "output": "否"}
+{"input": "Hemoglobina = ferro? Sí/no.", "output": "是"}
+{"input": "Lincoln = assassinat? Sí/no.", "output": "是"}
+{"input": "Si = semiconductor? Sí/no.", "output": "是"}
+{"input": "Ganges = Himalaies? Sí/no.", "output": "是"}
+{"input": "Meduses = invertebrats? Sí/no.", "output": "是"}
+{"input": "CH3COOH = àcid acètic? Sí/no.", "output": "是"}
+{"input": "Colom = cercava Índies? Sí/no.", "output": "是"}
+{"input": "Bluetooth = sense fils? Sí/no.", "output": "是"}
+{"input": "Pingüins = plomes? Sí/no.", "output": "是"}
+{"input": "Berlín = capital Alemanya? Sí/no.", "output": "是"}
+{"input": "Neptú = vents supersònics? Sí/no.", "output": "是"}
+{"input": "Cafeïna = estimulant? Sí/no.", "output": "是"}
+{"input": "Mozart = s.XVIII? Sí/no.", "output": "是"}
+{"input": "Cu = conductor tèrmic? Sí/no.", "output": "是"}
+{"input": "Gobi = sorra roja? Sí/no.", "output": "否"}
+{"input": "Rèptils = sang freda? Sí/no.", "output": "是"}
+{"input": "NH3 = amoníac? Sí/no.", "output": "是"}
+{"input": "Guerra 100 anys = s.XV? Sí/no.", "output": "是"}
+{"input": "SQL = consultes BD? Sí/no.", "output": "是"}
+{"input": "Estruços = volen? Sí/no.", "output": "否"}
+{"input": "Ottawa = capital Canadà? Sí/no.", "output": "是"}
+{"input": "Via Làctia = espiral? Sí/no.", "output": "是"}
+{"input": "Adrenalina = estrès? Sí/no.", "output": "是"}
+{"input": "Da Vinci = Gioconda? Sí/no.", "output": "是"}
+{"input": "He = gas noble? Sí/no.", "output": "是"}

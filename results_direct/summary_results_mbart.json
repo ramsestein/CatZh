@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-17T21:12:39.022905",
+    "total_evaluations": 8998,
+    "questions": 612,
+    "iterations_per_question": 5
+  },
+  "global_metrics": {
+    "exact_match": 0.19548788619693266,
+    "contains_correct": 0.5427872860635696,
+    "had_think_tags": 0.6661480328961992
+  },
+  "by_model": [
+    {
+      "model": "qwen3:0.6b",
+      "exact_match": 0.16068488640105366,
+      "contains_correct": 0.5686532762594666,
+      "used_think_tags": 1.0
+    },
+    {
+      "model": "yi:9b",
+      "exact_match": 0.2003994673768309,
+      "contains_correct": 0.525965379494008,
+      "used_think_tags": 0.0
+    },
+    {
+      "model": "deepseek-r1:1.5b",
+      "exact_match": 0.22624281366249577,
+      "contains_correct": 0.533310787960771,
+      "used_think_tags": 1.0
+    }
+  ],
+  "by_block": {
+    "deepseek-r1:1.5b": {
+      "formal_technical": 0.3412698412698413,
+      "grammatical_errors": 0.182,
+      "minimalist_extreme": 0.17473684210526316,
+      "normal_telegraphic": 0.24361493123772102,
+      "slang_youth": 0.23541247484909456,
+      "verbose_poetic": 0.17372881355932204
+    },
+    "qwen3:0.6b": {
+      "formal_technical": 0.2099009900990099,
+      "grammatical_errors": 0.1541501976284585,
+      "minimalist_extreme": 0.12326043737574553,
+      "normal_telegraphic": 0.11834319526627218,
+      "slang_youth": 0.14341846758349705,
+      "verbose_poetic": 0.21499013806706113
+    },
+    "yi:9b": {
+      "formal_technical": 0.24489795918367346,
+      "grammatical_errors": 0.2204724409448819,
+      "minimalist_extreme": 0.11020408163265306,
+      "normal_telegraphic": 0.1784313725490196,
+      "slang_youth": 0.22879684418145957,
+      "verbose_poetic": 0.218436873747495
+    }
+  }
+}

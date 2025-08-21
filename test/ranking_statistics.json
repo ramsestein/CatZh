@@ -1,0 +1,104 @@
+{
+  "total_questions": 612,
+  "models_analyzed": [
+    "opus",
+    "nllb",
+    "aina",
+    "mbart",
+    "m2m100",
+    "google"
+  ],
+  "model_total_points": {
+    "nllb": 2690,
+    "aina": 2800,
+    "m2m100": 2508,
+    "mbart": 1819,
+    "google": 2340,
+    "opus": 695
+  },
+  "model_avg_points": {
+    "nllb": 4.395424836601308,
+    "aina": 4.57516339869281,
+    "m2m100": 4.098039215686274,
+    "mbart": 2.9722222222222223,
+    "google": 3.823529411764706,
+    "opus": 1.1356209150326797
+  },
+  "model_avg_ranking": {
+    "nllb": 2.604575163398693,
+    "aina": 2.4248366013071894,
+    "m2m100": 2.9019607843137254,
+    "mbart": 4.027777777777778,
+    "google": 3.176470588235294,
+    "opus": 5.86437908496732
+  },
+  "model_contributions_by_topk": {
+    "nllb_top2": 321,
+    "aina_top2": 340,
+    "nllb_top3": 437,
+    "aina_top3": 500,
+    "m2m100_top3": 379,
+    "google_top2": 195,
+    "google_top3": 347,
+    "mbart_top2": 111,
+    "mbart_top3": 168,
+    "m2m100_top2": 257,
+    "opus_top3": 5
+  },
+  "ranking_distribution": {
+    "nllb": {
+      "pos_1": 179,
+      "pos_2": 142,
+      "pos_3": 116,
+      "pos_4": 101,
+      "pos_5": 65,
+      "pos_6": 9
+    },
+    "aina": {
+      "pos_1": 156,
+      "pos_2": 184,
+      "pos_3": 160,
+      "pos_4": 83,
+      "pos_5": 26,
+      "pos_6": 3
+    },
+    "m2m100": {
+      "pos_1": 139,
+      "pos_2": 118,
+      "pos_3": 122,
+      "pos_4": 139,
+      "pos_5": 85,
+      "pos_6": 9
+    },
+    "mbart": {
+      "pos_1": 67,
+      "pos_2": 44,
+      "pos_3": 57,
+      "pos_4": 122,
+      "pos_5": 281,
+      "pos_6": 41
+    },
+    "google": {
+      "pos_1": 71,
+      "pos_2": 124,
+      "pos_3": 152,
+      "pos_4": 162,
+      "pos_5": 97,
+      "pos_6": 6
+    },
+    "opus": {
+      "pos_1": 0,
+      "pos_2": 0,
+      "pos_3": 5,
+      "pos_4": 5,
+      "pos_5": 58,
+      "pos_6": 544
+    }
+  },
+  "overall_similarity_stats": {
+    "mean": 0.7401298683626374,
+    "std": 0.1262885102125799,
+    "min": 0.18961588541666666,
+    "max": 0.9519856770833334
+  }
+}

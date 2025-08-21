@@ -1,0 +1,14 @@
+REPORTE DE DUPLICADOS
+==================================================
+
+Generado: 2025-07-18 01:03:42
+Archivo fuente: muestra_traducciones_10000.csv
+
+
+EXACTOS:
+------------------------------
+1. Líneas [52580718, 68850592]: 命名空间（Namespace）
+
+CASI_EXACTOS:
+------------------------------
+1. Líneas [52580718, 68850592]: 命名空间（namespace）

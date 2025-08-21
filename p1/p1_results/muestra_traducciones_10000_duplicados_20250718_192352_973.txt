@@ -1,0 +1,10 @@
+REPORTE DE DUPLICADOS
+==================================================
+
+Generado: 2025-07-18 19:29:26
+Archivo fuente: muestra_traducciones_10000.csv
+
+
+CASI_EXACTOS:
+------------------------------
+1. Líneas [11653913, 42971658]: 机器人回答
