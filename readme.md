@@ -98,8 +98,9 @@ curl -fsSL https://ollama.com/install.sh | sh
 ollama pull qwen3:0.6b
 ollama pull yi:9b
 ollama pull deepseek-r1:1.5b
+```
 
-###Ejecutar Evaluación Completa
+### Ejecutar Evaluación Completa
 
 ```
 bash
@@ -110,14 +111,20 @@ python t2_google.py datasets/test-catalan.jsonl --output_file test-llm-gt.jsonl
 python t2_m2m100.py datasets/test-catalan.jsonl --output_file test-llm-m2m100.jsonl
 python t2_mbart.py datasets/test-catalan.jsonl --output_file test-llm-mbart.jsonl
 python t2_opus.py datasets/test-catalan.jsonl --output_file test-llm-opus.jsonl
+```
 
-# FASE 2: Evaluar con Ollama
+## FASE 2: Evaluar con Ollama
+```
+bash
 python t1_ollama.py
 # Configuración interactiva:
 # - Workers paralelos: 10 (ajustar según CPU)
 # - Modo TEST: No (para evaluación completa)
+```
 
-# FASE 3: Crear ensemble semántico
+## FASE 3: Crear ensemble semántico
+```
+bash
 python t3_ensemble.py --data_dir . --output_dir ./ranked_datasets --top_k 2 3
 ```
 ###Evaluación Rápida (Modo Test)
@@ -165,8 +172,8 @@ catalan-chinese-benchmark/
     └── top3_ranked_dataset.jsonl    # Mejores 3 traducciones
 
 
-###📉 Análisis de Resultados
-##Hallazgos Clave
+##📉 Análisis de Resultados
+###Hallazgos Clave
 
 - OpusMT: Paradoja interesante - 97.3% contains_correct pero 0% exact_match, sugiere que entiende el contenido pero no respeta el formato de respuesta
 - NLLB y AINA: Mejor balance entre comprensión y formato, lideran en el ranking del ensemble
@@ -175,7 +182,7 @@ catalan-chinese-benchmark/
 Impacto del estilo: El bloque minimalista extremo es el más desafiante para todos los modelos
 Think tags: Los modelos que usan razonamiento interno (Qwen3, DeepSeek) muestran mayor precisión
 
-##Contribuciones del Ensemble (Top-2)
+###Contribuciones del Ensemble (Top-2)
 
 AINA: 340 contribuciones (27.8%)
 NLLB: 321 contribuciones (26.2%)
@@ -193,13 +200,13 @@ config.max_parallel_calls = 20       # Más workers para evaluación rápida
 config.timeout_seconds = 120         # Timeout mayor para modelos lentos
 ```
 
-##Agregar Nuevo Modelo de Traducción
+###Agregar Nuevo Modelo de Traducción
 
 Crear script t2_nuevo_modelo.py basado en plantilla existente
 Implementar clase NuevoModeloTranslator
 Agregar a pipeline de evaluación
 
-##Agregar Nuevo LLM Evaluador
+###Agregar Nuevo LLM Evaluador
 ```
 python
 # En t1_ollama.py, agregar a config.llm_models
@@ -211,7 +218,7 @@ self.llm_models = [
 ]
 ```
 
-###📝 Reproducibilidad
+##📝 Reproducibilidad
 
 Para reproducir exactamente los resultados:
 
@@ -220,7 +227,7 @@ Semillas aleatorias: Todas fijadas a 42
 Datasets: Disponibles en carpeta datasets/
 Configuración: Documentada en archivos de configuración
 
-###🤝 Contribuciones
+##🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Por favor:
 
@@ -230,13 +237,13 @@ Commit tus cambios (git commit -m 'Agregar nueva característica')
 Push a la rama (git push origin feature/NuevaCaracteristica)
 Abre un Pull Request
 
-###📄 Licencia
+##📄 Licencia
 Este proyecto está bajo licencia MIT. Ver archivo LICENSE para más detalles.
 
-###📧 Contacto
+##📧 Contacto
 Para preguntas o colaboraciones, contactar a: [tu-email@ejemplo.com]
 
-###🙏 Agradecimientos
+##🙏 Agradecimientos
 
 Modelos de traducción de código abierto
 Comunidad Ollama por infraestructura de LLMs locales
