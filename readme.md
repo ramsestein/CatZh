@@ -1,4 +1,4 @@
-# 🌐 Benchmark de Traducción Catalán-Chino mediante Evaluación LLM
+# 🌐 Introducción de modelos de traducción para mejora de rendimiento de LLM
 
 ## 📊 Resumen del Proyecto
 
