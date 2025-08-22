@@ -44,25 +44,81 @@ Sistema innovador de evaluación de calidad de traducción automática catalán�
 
 ### Ranking Global de Modelos de Traducción
 
-| Ranking | Modelo | Exact Match | Contains Correct | Score Ensemble |
-|---------|--------|-------------|------------------|----------------|
-| 1º | NLLB-200 | 46.98% | 68.97% | 4.40 pts |
-| 2º | AINA | 46.98% | 68.97% | 4.58 pts |
-| 3º | Google Translate | 41.97% | 63.28% | 3.82 pts |
-| 4º | M2M100 | 16.60% | 53.88% | 4.10 pts |
-| 5º | mBART | 19.55% | 54.28% | 2.97 pts |
-| 6º | OpusMT | 0.00% | 97.32% | 1.14 pts |
+| Ranking | Modelo | Exact Match | Contains Correct |
+|---------|--------|-------------|------------------|
+| 1º | **AINA** | 46.98% | 68.97% |
+| 2º | **Google Translate** | 41.97% | 63.28% |
+| 3º | **Ensemble (Top-3)** | 25.84% | 62.35% |
+| 4º | **mBART** | 19.55% | 54.28% |
+| 5º | **M2M100** | 16.60% | 53.88% |
+| 6º | **CAT (Directo)¹** | 2.70% | 89.85% |
+| 7º | **Llama3.2:3b²** | 0.00% | 97.32% |
 
-### Rendimiento por Estilo Lingüístico (Exact Match %)
+¹ *CAT: Evaluación directa en catalán sin traducción - Alta comprensión semántica (89.85%) pero falla en formato de respuesta chino*  
+² *Llama3.2:3b: Modelo base de trabajo del proyecto*
 
-| Modelo | Normal Telegráfico | Formal Técnico | Slang Juvenil | Con Errores | Verboso Poético | Minimalista |
-|--------|-------------------|----------------|---------------|-------------|-----------------|-------------|
-| NLLB | 52.4% | 60.4% | 64.6% | 51.8% | 46.5% | 42.1% |
-| AINA | 52.4% | 60.8% | 53.3% | 47.6% | 56.1% | 23.8% |
-| Google | 71.9% | 70.6% | 60.0% | 59.5% | 55.6% | 30.0% |
-| M2M100 | 6.0% | 16.9% | 5.1% | 3.6% | 16.1% | 18.4% |
-| mBART | 11.8% | 21.0% | 14.3% | 15.4% | 21.5% | 12.3% |
-| OpusMT | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% |
+### Rendimiento por Estilo Lingüístico (Exact Match % - Promedio entre evaluadores)
+
+| Modelo | Formal Técnico | Errores Gramaticales | Minimalista Extremo | Normal Telegráfico | Slang Juvenil | Verboso Poético |
+|--------|----------------|---------------------|-------------------|------------------|---------------|-----------------|
+| **AINA** | 56.5% | 45.1% | 28.1% | 53.0% | 50.9% | 41.1% |
+| **Google** | 50.1% | 46.1% | 18.3% | 37.6% | 43.6% | 34.4% |
+| **Ensemble** | 31.0% | 21.2% | 16.1% | 31.6% | 24.8% | 30.4% |
+| **mBART** | 27.7% | 20.7% | 13.7% | 18.4% | 20.2% | 20.2% |
+| **M2M100** | 23.8% | 7.3% | 19.7% | 15.5% | 12.2% | 21.2% |
+| **CAT** | 3.3% | 0.3% | 1.1% | 4.6% | 2.3% | 4.2% |
+| **Llama3.2** | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% |
+
+### Métricas Detalladas por Modelo Evaluador
+
+#### Modelo: AINA
+| LLM Evaluador | Exact Match | Contains Correct |
+|---------------|-------------|------------------|
+| Qwen3:0.6b | 55.64% | 70.86% |
+| Yi:9b | 36.10% | 72.60% |
+| DeepSeek-R1:1.5b | 49.06% | 63.47% |
+
+#### Modelo: Google Translate  
+| LLM Evaluador | Exact Match | Contains Correct |
+|---------------|-------------|------------------|
+| Qwen3:0.6b | 57.98% | 65.05% |
+| Yi:9b | 26.32% | 66.71% |
+| DeepSeek-R1:1.5b | 41.57% | 58.03% |
+
+#### Modelo: CAT (Evaluación Directa en Catalán)
+| LLM Evaluador | Exact Match | Contains Correct |
+|---------------|-------------|------------------|
+| Qwen3:0.6b | 7.85% | 88.25% |
+| Yi:9b | 0.00% | 95.01% |
+| DeepSeek-R1:1.5b | 0.03% | 86.59% |
+
+### Hallazgos Clave
+
+1. **AINA lidera en precisión global** con el mejor balance entre exact match (46.98%) y comprensión semántica (68.97%), estableciéndose como el modelo de traducción más efectivo para el par catalán→chino
+
+2. **Experimento de control (CAT)**: La evaluación directa en catalán demuestra que los LLMs comprenden excelentemente el contenido (89.85% contains_correct) pero no pueden generar respuestas en el formato chino esperado (是/不是), validando la necesidad de traducción
+
+3. **Modelo base Llama3.2:3b**: Aunque muestra comprensión casi perfecta del contenido (97.32%), su incapacidad para generar el formato de respuesta correcto lo hace inadecuado como traductor directo, justificando el pipeline de traducción+evaluación
+
+4. **Impacto del estilo lingüístico**: 
+   - **Formal técnico**: Mejores resultados generales (AINA: 56.5%, Google: 50.1%)
+   - **Minimalista extremo**: El más desafiante para todos los modelos (AINA: 28.1%, Google: 18.3%)
+   - **Errores gramaticales**: Impacto moderado en la precisión, sugiriendo robustez de los modelos
+
+5. **Efecto del razonamiento interno**: 
+   - Modelos con think tags (Qwen3, DeepSeek-R1): Mayor precisión en exact match
+   - Yi:9b sin think tags: Mayor contains_correct pero menor precisión exacta
+   - Correlación positiva entre uso de razonamiento interno y precisión de formato
+
+6. **Ensemble semántico**: Con 25.84% de exact match, el ensemble no supera a los mejores modelos individuales pero ofrece valor para aplicaciones que requieren diversidad y consenso entre traducciones
+
+### Distribución de Evaluaciones
+
+- **Total de evaluaciones**: 54,172 (promedio 9,029 por modelo)
+- **Preguntas evaluadas**: 612 en 6 estilos lingüísticos distintos
+- **Iteraciones por pregunta**: 5 para robustez estadística
+- **LLMs evaluadores**: 3 modelos (Qwen3:0.6b, Yi:9b, DeepSeek-R1:1.5b)
+- **Modelos de traducción evaluados**: 6 + 2 controles (CAT directo, Llama3.2:3b base)
 
 ## 📂 Dataset de Evaluación
 
