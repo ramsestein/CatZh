@@ -1,5 +1,9 @@
 # 🌐 Introducción de modelos de traducción para mejora de rendimiento de LLM
 
+# Tareas pte
+- Traductor en tandem aina + qwen3 -> Flores200
+- Corroborar lo de semantica correlación con modelo grande
+
 ## 📊 Resumen del Proyecto
 
 Sistema innovador de evaluación de calidad de traducción automática catalán→chino que utiliza la capacidad de LLMs para responder preguntas Sí/No como métrica de calidad. Este benchmark evalúa 6 modelos de traducción mediante 3 LLMs evaluadores sobre un dataset de 612 preguntas en 6 estilos lingüísticos diferentes.
