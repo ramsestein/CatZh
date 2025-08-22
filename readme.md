@@ -422,7 +422,7 @@ Llama3.2:3b se utilizó como modelo de control para evaluar el comportamiento de
 
 2. **Experimento de control (CAT)**: La evaluación directa en catalán demuestra que los LLMs comprenden excelentemente el contenido (89.85% contains_correct) pero no pueden generar respuestas en el formato chino esperado (是/不是), validando la necesidad de traducción
 
-3. **Modelo base Llama3.2:3b**: Aunque muestra comprensión casi perfecta del contenido (97.32%), su incapacidad para generar el formato de respuesta correcto lo hace inadecuado como traductor directo, justificando el pipeline de traducción+evaluación
+3. **Modelo Llama3.2:3b**: Aunque muestra comprensión casi perfecta del contenido (97.32%), su incapacidad para generar el formato de respuesta correcto lo hace inadecuado como traductor directo, justificando para él también el pipeline de traducción+evaluación
 
 4. **Impacto del estilo lingüístico**: 
    - **Formal técnico**: Mejores resultados generales (AINA: 56.5%, Google: 50.1%)
